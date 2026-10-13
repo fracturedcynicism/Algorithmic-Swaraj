@@ -1,37 +1,45 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Algorithmic Swaraj",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "Dystopia and revolution.",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "In a near-future Kolkata crushed by an omniscient surveillance AI, a hybrid rebel leader uses counter-AI tactics and Tagorean philosophy to help ordinary citizens reclaim their human agency and autonomy.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
+      "slug": "Algorithmic Swaraj 1",
+      "title": "The Ghost of Gourmohan",
+      "subtitle": "Novella",
+      "file": "books/1. The Ghost of Gourmohan.txt",
       "setting": "Vedic India"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "Algorithmic Swaraj 2",
+      "title": "Inverse Logic",
+      "subtitle": "Novella",
+      "file": "books/2. Inverse Logic.txt",
+      "setting": "Dystopian Kolkata"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "Algorithmic Swaraj 3",
+      "title": "The Minotaur's Cage",
+      "subtitle": "Novella",
+      "file": "books/3. The Minotaur's Cage.txt",
+      "setting": "Dystopian Kolkata"
+    },
+            {
+      "id": 4,
+      "slug": "Algorithmic Swaraj 4",
+      "title": "The Algorithmic Swaraj",
+      "subtitle": "Novella",
+      "file": "books/4. Algorithmic Swaraj.txt",
+      "setting": "Dystopian Kolkata"
     }
   ]
 }

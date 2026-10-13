@@ -1,0 +1,1272 @@
+### Part One: Chapters 1–3
+
+---
+
+CHAPTER 1.
+
+The depot smelled of diesel, wet concrete, and the sweetish rot of marigolds that had come in on the Malik Ghat wagons before dawn and been forgotten in the corners. Gourmohan lay on his back beneath the junction cabinet with a torch clamped between his teeth and a maintenance tablet balanced on his chest. The tablet showed him nothing he needed. It showed a green progress bar, a camera feed of a corridor no one walked down, and the timestamp the depot's own system updated every four seconds, as though it could not bear to forget that it was still awake.
+
+He had come in at 4:40 wearing the grey coverall of the Eastern Metro Maintenance Authority, a laminated badge with a photograph of a man who was not him, and a pair of steel-rimmed spectacles whose lenses carried a faint printed lattice that no one could see except the camera on the gate. The gate had looked at the lattice and seen a sixty-year-old clerk from the rolling-stock inventory office. The guard had yawned and said, *Dada, the number-three bay is flooded again, mind your feet.*
+
+He had minded his feet. The water in the bay was the colour of weak tea and carried a film of grease that caught the light from the ceiling tubes and broke it into a rainbow that belonged to nothing. He had waded through it to the junction cabinet with his trousers rolled to the knee, and he had thought, the way one thinks of a thing one has loved for years and has no right to love, of the Hooghly at this hour: the water grey-brown and unhurried, a fishing boat's lantern going out, the sky above Howrah turning from ink to the colour of old brass. The river did not know what a threat score was. The river was not in a database. He had decided, somewhere in the lane outside the depot at four in the morning, that he would take this as a kind of instruction.
+
+The junction cabinet was older than the depot's software. Its back panel had been installed in the years when the city still believed a cable was a cable. Under the cracked plastic cover, a fibre bundle ran into a grey box the size of a tiffin carrier, and from the box a single pale wire climbed the wall and disappeared into the ceiling, where a sensor node looked down on the bay and listened.
+
+Every sensor node in the city listened. That was the thing the directorate's pamphlets did not say, and the thing the cartel's engineers said with a kind of tender pride: *a municipal node is a microphone that never sleeps, and it hears everything in the band of the human voice, and it passes what it hears to the classifier before it passes the time of day to the clock.* The voice-recognition model on the node had been trained on eleven thousand hours of Bengali, Hindi, English, and the four or five dialects of Bihar that the army still considered suspicious. It had been trained on the voices of people who did not know they were being recorded. It was very good at its work. That was the trouble with it.
+
+He opened the cabinet. The smell inside was dust and ozone and the faint, clean sourness of a battery that had been charging too long. From the inside pocket of his coverall he took a sliver of memory the length of his little finger, wrapped in a strip of cloth that had once been a child's hair ribbon. He had bought the ribbon for two rupees from a girl in Gariahat who sold them from a tray beside the bangles, and he had bought the bangles too, for no reason he could give Sucharita when she asked.
+
+The sliver was a carrier. Inside it, compressed beyond the reach of any reasonable checksum, were four hundred seconds of audio Sucharita had recorded in a room in Lake Town three nights earlier. It was the voice of a woman reciting the names of fish. It was a boy coughing through a song about a girl who had gone to the river for water and had not come back. It was a man saying, quietly, *the milk is on the stove, don't let it boil over, Shonali will be home after the bus.* Ordinary speech, the kind the classifier had been told to file under noise. Sucharita had spent a week making the noise hostile.
+
+She had shown him the pattern on a sheet of paper, drawn in pencil, the waveforms laid one over another like the lines of a palm. *The classifier isn't listening to the words,* she had said. *It's listening for the shape of a threat. Give it the shape, and it will hear a threat in the milk.*
+
+He slid the sliver into the cabinet's service port. The port accepted it with a faint mechanical reluctance. He closed the panel, dropped the cover back into its catch, and lay for a moment with his face six inches from the cracked plastic, breathing the dust.
+
+Above him, the node's indicator blinked amber, then green.
+
+He had expected to feel something. The manual of the thing, the text Sucharita called *the cartel's own gospel*, promised in its opening pages that a disciplined operator could reach a state in which the body performed its tasks while the mind hovered above the work, like a kite. He had read that passage in a room with no windows, in the second year, and had laughed aloud, because the kite had never once been above anything. The kite had always been tangled in a tree, and he had always been the one climbing.
+
+What he felt now was nothing like clarity. It was a small, precise shame, and it arrived in his stomach as a pressure like the beginning of hunger, and he let it stay there. He would need it later. Shame, properly kept, was a kind of memory.
+
+He stood, wiped his palms on the coverall, and was turning toward the bay's far door when the tablet in his hand chimed with the soft, bureaucratic note the directorate used for everything it wanted a human to hurry toward.
+
+The screen did not show a map. He had expected a map. For years the city had been drawn for him as a map, every neighbourhood a blue wash over a grid of roads, every person a dot that bloomed amber, then red, as the classifier's confidence rose. This was a list.
+
+> **KALA-NET / CLUSTER ALERT / SECTOR 11-E**
+> UNREGISTERED ASSEMBLY — GARIAHAT RD. (N) LANE 4 — ROOFTOP
+> OCCUPANTS DETECTED: 41
+> REGISTERED DEVICES PRESENT: 0
+> CLUSTER THREAT INDEX: 0.67
+> RANKED NODES: 3
+> AUTHORIZATION: PENDING — SECTOR OFFICER 2
+> TIME TO ESCALATION: 00:47:12
+
+He read it twice. Then he read the line that had no number in it, the one the system could not help calling a finding: *REGISTERED DEVICES PRESENT: 0.*
+
+Forty-one people on a rooftop in the Gariahat lanes, with no phones among them, no tags, no cellular handshake, no face the cameras could stitch to a name. To the classifier, that was not a gathering. It was a silence with a shape in it. Silence was the one thing the model could not account for, and so the model had done what it always did with the things it could not account for: it had multiplied its uncertainty by the most dangerous neighbour it could find.
+
+The three ranked nodes were the ones that mattered. The first was Shibnath Ghosh, a retired sub-inspector pensioned off in 2041 for drinking, who had since taken to teaching the children of the lane to write their names. The second was a woman marked with a grey *F*, which meant only that she was female and the system did not yet know what to do with her. The third was a boy of nineteen with a torn school tie, who had photographed a tram that had been retired three years before the directorate found the photograph and decided it was a surveillance image.
+
+Gourmohan closed his eyes. He could see the roof without trying. Tin awnings, a water tank on iron legs, a line of washing faintly luminous under the sodium lamps. Forty-one people in a half-circle on the tar, passing a harmonium from hand to hand, singing a song about a country that did not yet have a name for itself, a song the director-general's staff had once tried to ban for sedition and had then, in a fit of cultural embarrassment, licensed for state weddings.
+
+He did not need the classifier to tell him what the singing was. He could hear it in his teeth.
+
+He had promised himself, in the room with no windows, that he would not go to the roof. He had promised Sucharita, in the kitchen in Lake Town, with a cup of tea going cold between them, that he would be a mind in a box until the jammers were ready. He had made these promises in the language of the operational plan, a language invented to make a man believe his own caution was discipline.
+
+He took off the spectacles, folded them, and put them in the breast pocket of the coverall, over his heart, where the lattice would cover nothing. He walked out past the marigold wagons and the flooded number-three track into the grey beginning of the Kolkata morning, where the first trams had not yet come and the first tea-sellers were lighting their coal, and he turned north toward Gariahat with the unhurried stride of a clerk who had been told he was needed at the office.
+
+Somewhere behind him, a camera on a gate registered an unknown man in a grey coverall leaving a depot with a face it could not match. The camera filed the event as noise. By the standards of the classifier, it was the most innocent thing that had happened in Eastern Kolkata that morning.
+
+---
+
+CHAPTER 2.
+
+Sucharita Sen did her thinking standing up.
+
+She had done it in the cartel's analytics floor at Salt Lake, in a glass room on the fourteenth storey where the air conditioning ran so cold that the women kept spare shawls on their chairs. She had done it in the months after her defection, in a flat in Lake Town with a single fan and a window onto a courtyard where a neighbour's girl practised scales on a keyboard with one dead key. She did it now in the kitchen of the house on Mandeville Road, which belonged to no one who appeared in any record, with her back to the gas stove and a laptop on the counter that had no network card and no drive that could be read by anything but her own two hands.
+
+On the table, between a bowl of chickpeas soaking in water and a stack of printed telemetry sheets, sat a teacup. The tea had gone cold an hour ago. She had poured it for Gourmohan out of a habit she did not examine, and he had not come back for it.
+
+The telemetry was the cartel's own. That was what made it unbearable. She had lifted it from a dead directorate server in the second week after her defection, before anyone understood what she had taken, and she had spent four months reading it the way a doctor reads the chart of a man who will not die on schedule. The chart told her what the machine believed, and what the people who operated the machine had chosen to forget.
+
+*Kala-Net assigns each resident a composite threat index on a scale of one to one hundred.* That was the first line of the appendix, typed in the bright, reasonable font the communications office used for anything it wished to make sound like weather. The appendix described the feature set. Cellular location entropy. Device-switch frequency. Co-presence in messaging groups with individuals previously flagged. Facial similarity to a training set of known insurgents, drawn from interrogation photographs, most of them taken in the first week of an arrest, when the faces were still swollen and the eyes still open.
+
+*The model was validated against a held-out population with a documented false positive rate of 10.2 percent.*
+
+She had read that sentence forty times. She read it on the metro, on the ferry, on the top deck of a bus on the Rashbehari flyover at two in the morning. It was the first sentence she had ever read that made her physically ill. Ten point two percent. Of every hundred people the machine declared a threat, ten were not threats. They were the civil defence volunteers who went out with the flood teams. They were the municipal mechanics who fixed the sensor nodes. They were nephews, cousins, lodgers, boys who sold tea outside the district office, men whose phones had been stolen and resold.
+
+Ten point two percent was not a bug. It was a line item.
+
+She turned to the second sheet. *Human review of targeting candidates shall be conducted under the Protocol of Expedited Verification. Average review interval: 20.4 seconds per candidate file.* Beneath it, in the smaller font reserved for footnotes: *Verification criteria shall be limited to confirmation of target identity as male, consistent with the operational profile of the active combatant population.*
+
+She had asked Gourmohan once, in the early weeks, why the operators checked only for sex. He had looked at her with his grey eyes for a long moment and then said, gently, that a check was a way of telling a man he had done his duty without asking him to think. The machine knew how many women were on the active rosters. The rosters were empty of women because the cartel had not admitted women to them since 2038. Therefore the question of whether a voice on an intercept was a woman's had already been answered, and the operator's only task was to confirm the machine's answer was still in order.
+
+*It's a question about whether the number is correct,* Gourmohan had said. *Not about whether the person is real.*
+
+The third sheet was the one she could not look at directly, so she read it sideways, the way one reads a letter from a dead relative.
+
+*For junior-tier targets, post-strike Bomb Damage Assessment is discontinued effective 1 April 2044. Command confirmation of detonation shall be sourced from strike-aircraft sensor telemetry only.*
+
+Beneath that, in a column of figures produced by a model that did not know it was producing figures, was the expected collateral casualty estimate for the strike package authorized against a block off Ballygunge Place eight weeks earlier. The model had derived it from the pre-war census multiplied by the neighbourhood evacuation ratio. The result was a single number with a single decimal place.
+
+*4.3 expected collateral casualties.*
+
+Sucharita held a degree in statistics from Jadavpur and a second in computer science from an institute in Pune whose name she no longer said aloud. She had taught probabilistic inference to second-year students with the patience of a woman who believed numbers could be taught to be honest. She had never before been asked to believe that a number could lie about a child.
+
+The building on the census sheet was a four-storey brick block on a lane off Ballygunge Place. The census recorded it as a residence for two families. The model multiplied two families by the evacuation ratio of 0.6, arrived at 1.2, folded in a margin for unregistered occupants, and reached 4.3. What the model did not record, because it had no field for it, was that the ground floor was a tailor's shop where the tailor's two daughters slept on the cutting table in summer. The second floor had been subdivided by a landlord into three rooms, each rented to a family of five. The roof was where a grandmother sold roasted corn in the evenings and kept her grandson's kite in a basket. The model had no record of the kite. The bomb did not check for kites.
+
+She had found the names later, in a file she had not been meant to see. There were nineteen. She had written them on the back of a telemetry sheet and kept it folded in the inner pocket of her jacket, where it sat now, the paper worn soft along its creases.
+
+She heard the back gate.
+
+Her hand went to the laptop by reflex and closed it. The gate's latch was an iron hook bent years ago by a branch in a storm, and it made a sound like a bird clearing its throat. She had never heard it open without a feeling in her chest that was not quite fear and not quite hope, and that she had stopped trying to name.
+
+Gourmohan came into the kitchen with dust in his hair and the depot still on him. He stood in the doorway, a head taller than the frame, and did not speak at once. He looked at the teacup. He looked at the chickpeas. He looked last at her.
+
+"You went out," she said.
+
+"I went to a rooftop."
+
+"Which rooftop?"
+
+"Gariahat. Lane four." He came in and sat at the table with the careful movements of a man who had carried something heavy up a flight of stairs. "There are forty-one people on it. They're singing."
+
+"Gourmohan."
+
+"I know."
+
+"The classifier flagged them at zero point six seven. It escalates in—" she glanced at the clock on the stove "—forty minutes. Maybe less. Apoorba would know the exact figure. Apoorba always knows the exact figure." She heard the bitterness and let it stand, because it was honest, and because she did not have the patience this morning to be kinder.
+
+He lifted the cold teacup and drank it anyway, all of it, in two swallows, the way one takes a medicine one has been told to finish.
+
+"There are three ranked nodes," he said. "A retired sub-inspector who teaches the children to write. A woman the model hasn't decided about. A boy with a school tie."
+
+"You memorised them."
+
+"I looked at them for four seconds before I put the tablet down. The boy's name is Saikat. He was nineteen in March. He photographed a tram that was retired in 2041, and the imagery people decided it was a sensor image and put his face on a watch list because he was standing in front of it."
+
+She sat down across from him. Between them the telemetry lay in its stack, the last sheet face up. *Expected collateral casualties: 4.3.*
+
+"I can jam the roof," she said, "if the jammers are ready. Not the whole lane. The tank room. The tank is steel, the walls are brick, and there's a copper riser down the back of the building. It would take an hour to set up. Ninety minutes. It would blank the cellular signature of everyone up there for as long as the batteries held. Two hours, perhaps."
+
+"And the classifier?"
+
+"It would see a silence. A dead zone with a shape. It would ask its operators whether the silence was a fault." She turned the cold cup a quarter-turn on the table. "And the operators would have twenty seconds to decide whether the fault was a human being."
+
+"So they'd check the voice."
+
+"They'd check the voice," Sucharita said. "And the voice would be male, because there are nine men on that roof and one of them has a deep chest and a loud laugh. And they'd clear the file."
+
+He was quiet. In the courtyard a crow walked along the top of the wall with the air of a bird that had decided the wall was its own. Across the lane a pressure cooker whistled three times and fell silent.
+
+"Then it's the tank room," Gourmohan said at last. "We go up. Tonight, if we can. Before they escalate."
+
+"We don't go up. The jammers go up. You don't go near a rooftop with a Kala-Net shadow on your face."
+
+He looked at her with an expression she had seen only twice before, both times in the aftermath of something that had gone wrong. It was not anger. It was closer to grief, and it sat behind his eyes like a fish in clear water.
+
+"Sucharita," he said quietly, "if the jammers aren't on that roof in forty minutes, the classifier escalates. The escalation goes to a man in Sector Officer Two's office with eleven other files open, who will spend twenty seconds on this one. I know the number. You know the number. It's the same number it was in June, when the men went up to the roof on Chetla Road with the harmonium." He stopped. Then, more softly: "I'm not asking you to be brave. I'm asking you to be fast."
+
+She did not answer. She went to the counter, took from the drawer beneath the sink a sealed plastic box the size of a textbook, and opened it. Inside, in grey foam, lay six compact jammer units, each with a hand-stencilled label in Bengali script. She had built them in a cellar in Dhakuria with a soldering iron bought from a shop that sold it for kitchen repairs. Each could blank cellular signatures across two hundred metres for roughly four hours, provided the batteries were fresh and nobody thought to look for a hum in the ambient spectrum.
+
+She took out two and set them on the table between the teacup and the stack of paper.
+
+"Put these in the tank room," she said. "Behind the riser. The copper will do most of the work. Don't touch the tank itself. It's full of rainwater and the people on the roof will be drinking it."
+
+He picked one up and weighed it in his palm the way he weighed a sleeping child's head when he lifted her from a bed. She saw him make a small unbidden calculation in his face, the arithmetic of how many people such a thing could save, and how many it could drown.
+
+"Last time we built something to blank a roof," he said, "the men up there had to sing louder to be heard over the battery fans."
+
+"I know."
+
+"Do you remember what they sang?"
+
+She did remember, the way one remembers a song heard through a wall at night, with the lights off and the water running. It had been about a river, and a bride who went down to the river to wash her feet, and how the water would carry the bride's heart past the last of the fields toward a sea that had never been named for her. She had not understood the words the first time. She understood them in the second year, when the cartel's men came for the house on Chetla Road, and the singing stopped at the same moment as the water, and nobody on that roof ever sang a note again.
+
+"Yes," she said.
+
+He stood. He was taller than the kitchen, and when he moved the room adjusted around him like a canvas taking the weight of a figure. He slipped the unit into the inner pocket of his coverall, over the place where the spectacles had been, and she saw him do it without thinking, the way a man touches his heart when he is about to be asked something he does not want to answer.
+
+"Forty minutes," he said.
+
+"Thirty-eight."
+
+At the doorway he stopped with one hand on the frame and did not turn.
+
+"The sheet with the names," he said. "The nineteen. Is it still in your jacket?"
+
+She did not ask how he knew. She put her hand over the inner pocket. The paper was there, warm from her body, soft as cloth.
+
+"Yes."
+
+"Keep it there," said Gourmohan Roy. "Someone should carry the names who isn't a number."
+
+He went out through the back gate, and the iron hook made its bird-sound behind him. Sucharita sat with the cold tea, the stack of paper, and the one jammer left on the table, and for the first time in eleven months she did not reach for the laptop. She sat with her hand on her jacket and listened to the crow on the wall, and to the pressure cooker starting up again across the lane, and to a radio somewhere playing a song about the monsoon arriving in Bengal in the month of Asharh, which was not yet, and was never quite on time.
+
+---
+
+CHAPTER 3.
+
+The Sovereign Intelligence Directorate's target-approval wing occupied the fourth and fifth floors of a building on Strand Road that had once housed a shipping company. The company had left behind its tall windows and stone cornices, and a brass plaque at the entrance that read *Ganges & Western Navigation, Est. 1891*. The directorate removed the plaque in its first year and left the screws in the stone, because a screw hole, once made, could not be unmade, and the directorate did not waste money on things it could not use.
+
+Apoorba Chatterji walked past the empty screw holes every morning at 7:40, carrying a steel tiffin box in one hand and a leather folder in the other, and every morning he counted them. There were eleven. He had counted them so often that he no longer experienced the counting as a choice.
+
+His desk was in the second row of the fourth-floor room, under a window that looked onto the river. The river was visible only as a grey-green stripe between the buildings across the road, and on clear days a flash of brown water crossing the light like a fish turning. He had sat at this desk for nineteen months and had never opened the window. The windows in the wing were sealed. The air was cool, filtered, and smelled of carpet cleaner and the dry dust of paper printed in quantities no one read.
+
+Beside the keyboard lay the copy of *The Human-Machine Swarm* the directorate had issued to all staff in spring 2043. It was a handsome volume, bound in dark green cloth with the Directorate's seal embossed in gold on the spine. Its author, Director-General S.K., had written a foreword Apoorba could recite from memory. *Man has always feared the machine because he has never trusted the sum of his own parts. But the sum is not the enemy. The enemy is hesitation. Hesitation is the last luxury of a civilisation that no longer has the strength to survive.*
+
+He had read the foreword on his first day. He read the first chapter that night at his kitchen table, while Mitali fried fish in the other room and their daughter practised multiplication on the floor. The second chapter, the following week, contained a diagram of a decision loop with four stages: *Sense. Classify. Recommend. Confirm.* The diagram was drawn with clean lines and a pleasing symmetry. At the bottom, where the arrow returned to *Sense*, someone had written in the margin, in a neat ironic hand that might have been a student's or the Director-General's own: *Where is the human in this loop? At the point of confirmation. Why? Because confirmation is where responsibility is most efficiently transferred.*
+
+He had not understood the sentence when he first read it. He came to understand it over the following months, one file at a time.
+
+The file on his screen at 9:12 that morning was number 3,847 in the queue for Sector 11-E. It had been generated overnight, as all files were, while the city slept. The header carried the usual fields: candidate identifier, composite index, primary feature contributors, cellular and spatial correlates, recommended action. The recommended action read *Strike — Residential — Night Window.*
+
+He looked at the index first. Sixty-eight. A middling number, the kind junior analysts called *ambiguous and worth a look*. Then the feature contributors. Co-presence in a messaging group with two previously flagged individuals. A location-entropy score the model called *elevated*. A facial similarity of 0.41 to an interrogation image from a 2042 arrest in Bally, marked in amber with the advisory note *low confidence — secondary match*.
+
+Then he looked at the intercept.
+
+Every candidate file ended in a short audio clip, recovered from the nearest municipal node or a cellular interception at the edge of the candidate's movement pattern. The clips were rarely more than fifteen seconds. They were rarely interesting. Most captured the ambient noise of a bus stop, a pressure cooker, a child crying in a stairwell. Apoorba had listened to four thousand of them in nineteen months. He could tell from two seconds whether a voice was a man's or a woman's. From five he could tell whether the speaker was close to the microphone. He had learned, without deciding to, to stop listening after the fifth second, because the fifth second was when the question was answered.
+
+He pressed play.
+
+A woman's voice, slightly muffled, as though the speaker had a hand near her mouth. Behind her, a kitchen tap running. A second voice, a child's, saying a word Apoorba could not make out. Then the woman again, laughing, short and surprised, the laugh a person makes when a small thing has gone right unexpectedly.
+
+He stopped the clip at the fourth second.
+
+The verification field blinked. *Confirm target identity as male? [Y/N]*
+
+He sat very still. The fluorescent tubes hummed at a pitch he could feel in his back teeth. On the desk beside the keyboard, the green cloth of the Director-General's book caught the light from the window, and the gold seal on its spine looked, for a moment, like sun coming through a crack in a shutter.
+
+Two sets of footsteps passed behind his chair. A man in the next row complained quietly about the coffee machine. A woman laughed at something on her own screen. The clock in the corner read 9:12:38. The clock had been counting seconds for nineteen months, and Apoorba had never considered that it counted not the time he spent but the time he failed to spend.
+
+He thought of his wife. Mitali had a laugh like the one on the recording. He had not heard it in weeks. She laughed less now, since the directorate moved him to the target-approval wing and he began coming home with the grey stillness on his face that she had learned to recognise and fear. In the mornings she packed his tiffin with the same care she always had, dry aloo, a little mustard-oil rice, two slices of the lime pickle from her aunt's recipe, and she put a second, smaller box in his bag, which he had never asked for and never once opened on the metro.
+
+He thought of the child. His daughter, Tuli, was eight. She did her tables on the floor, and when she made a mistake she did not cry. She simply looked at the paper for a long time, then wrote the answer again, carefully, in the same place.
+
+He thought, for no reason the protocol recognised, of Shibnath Ghosh, who had taught him to swim in the tank behind the old police lines in Tollygunge when he was eleven. Shibnath had been a sub-inspector then, a bad drunk and a good teacher. He called Apoorba *Mahim*, because the boy was too shy to say his full name in front of the others. While they floated on their backs in the brown water, Shibnath had said that the river never asked whether you were worth carrying.
+
+The clip played again in his memory. The laugh. The tap. The child's word.
+
+He did not know what the child had said. Fifteen seconds had not been long enough to make it clear.
+
+The verification field blinked.
+
+*Confirm target identity as male?*
+
+The protocol gave him two options. He could confirm, which moved the file to Strike Package Drafting, where a window would be assigned, aircraft tasked, and a residential block in Sector 11-E approached at the hour the cellular correlates suggested the candidate would be indoors. Or he could decline, which returned the file to the classifier's queue and generated, in the protocol's language, a *non-confirmation event*, logged against his personnel record and forwarded to the compliance unit.
+
+He had declined twice in nineteen months. Both times the compliance unit called him in. Both times the review took four days. Both times Mitali waited up in the kitchen with the lamp off, and did not ask, and he told her nothing, and she nodded as though he had.
+
+He looked at the screen for a time he could not afterwards measure.
+
+Then he did what he had been trained to do. He read the file's identifier aloud under his breath, as the protocol instructed, to anchor the decision in procedure. "Three thousand, eight hundred and forty-seven." The sector. "Eleven, E." The proposed window. "Twenty-three hundred hours." And then, because the protocol did not forbid it and because it was the only thing in the room that belonged to him, he said the candidate's designation, which the file gave as a string of letters and numbers beginning *SR-7*. With a cold lurch in his belly he realised that this designation had been attached, eleven hours earlier, to a rooftop on Gariahat Road.
+
+It was not a candidate. It was a roof.
+
+He had been reading the roof all morning without knowing it. He had read it as a number, the number as a file, the file as a list of features, and the features as a voice in a kitchen with a tap running. Somewhere in the chain of correlations the classifier had built, a woman laughing in her kitchen had become a male voice that had to be confirmed, because the machine had decided that a voice on a rooftop in Gariahat belonged to a militant, and the machine had no field for the rest of the sentence.
+
+His finger hovered over the Y.
+
+The coffee machine gave its wheeze. Somebody laughed. The clock reached 9:13:04, then 9:13:05, then 9:13:06, as the seconds went on being counted by a thing that did not care whether a man was counting them.
+
+He thought of the river. Of the stripe of brown water between the buildings, the fish turning in the light, Shibnath floating on his back in the old police tank saying the river did not ask whether you were worth carrying. He thought of the nineteen names he did not know, and of the one name he did, which appeared on no list because no one who would have been required to read it had ever written it down.
+
+He thought of the word the child had said. He would never know what it was.
+
+He pressed the key.
+
+The screen flashed once, a green pulse the colour of young paddy seen from a train window. *Confirmed. File 3,847 forwarded to Strike Package Drafting. Estimated window: 23:00 hrs.*
+
+He sat back. His shirt was wet at the collar and cold along the spine. His hands, resting on the edge of the desk beside the green-bound book, were perfectly steady. That frightened him most, afterward, when he was on the metro in the evening among people who did not look at one another. The steadiness. The sense that the hand had moved on its own, and the man who owned the hand had been, for the length of a breath, only watching.
+
+He did not open his tiffin at lunch. At four in the afternoon the compliance unit sent its standard notice, which he signed. It stated that his verification rate was within expected parameters, that his average review interval was 20.1 seconds, and that no non-confirmation events had been recorded.
+
+At a quarter to five a second message came up to the fourth floor, asking him to attend the sixth.
+
+The compliance unit occupied the sixth floor of the Strand Road building, in a corner room with no windows at all. The directorate had built it that way deliberately, in the first year, when the architects were still permitted to explain their intentions in the minutes. *Compliance requires a space free of external distraction,* the minute had read. Apoorba had found the phrase in the directorate's internal bulletin one lunch hour and had copied it onto the back of an envelope, because it seemed to him the most honest sentence the building had ever produced.
+
+Mr. Dasgupta had a soft voice and a clean desk. He kept one folder on the desk and never opened it, and he kept his hands folded on top of it while he talked, the way a man might hold a sleeping cat. He was perhaps fifty. His suit was excellent and had been pressed that morning, and he had a habit of smiling when he came to a question he did not like, the smile of a man apologising in advance for something the building had decided.
+
+"Thank you for coming up, Mr. Chatterji," he said. "I know it's a difficult afternoon. Please, sit."
+
+Apoorba sat. The chair was lower than his own at the desk, so that he had to look up slightly. He did not mind. He had learned in nineteen months that the directorate arranged its furniture with the same precision it arranged its procedures, and that a man who was made to look up had already been told where he stood.
+
+"We've reviewed the file for Sector 11-E," said Dasgupta. "Three thousand eight hundred and forty-seven. You'll remember it."
+
+"Yes."
+
+"You confirmed it at 9:13 this morning."
+
+"Yes."
+
+"Your average verification interval for that session was twenty point one seconds."
+
+"Yes."
+
+"That's within the expected parameters." Dasgupta smiled. "I want to be clear about that from the start. Nobody here thinks you were rushed. Your rate has been exemplary for nineteen months. Exemplary. We've had three commendations from the Office of the Director-General in your file, and we're very glad to have you in the wing."
+
+"Thank you."
+
+"The question is about the revision." Dasgupta turned the folder a quarter-inch on the desk. He did not open it. "The strike window for that file was moved from twenty-three hundred to twenty-two forty at 16:20 this afternoon. Do you remember being notified?"
+
+"No."
+
+"You weren't notified. Revisions of that kind are made at the Office level, and they populate the operator's queue automatically." Dasgupta spread his hands on the folder. "But the operator is responsible for reviewing the queue. Do you agree?"
+
+"Yes."
+
+"And the revision was visible on your screen at 16:21."
+
+"I didn't look at it."
+
+"You didn't look at it." Dasgupta nodded, slowly, as though this were a reasonable answer that he would have to write down carefully. "Mr. Chatterji, the authorization for that revision came from the Director-General's office. Specifically from S.K. You'll understand that the Director-General's office does not usually enter into the details of individual windows. It sets policy. It doesn't adjust timing for an aircraft training cycle on a Monday. That's a decision someone above the operator's level made, and it was made to accommodate the strike cycle. Do you know why it was made?"
+
+"No."
+
+"Would you like to know?"
+
+Apoorba looked at him. The smile was still there, very slightly. He understood, in the way one understands a sudden change of temperature in a room, that the question was not a question. It was a door being held open.
+
+"Yes," he said.
+
+"Good." Dasgupta opened the folder, at last, and turned it toward Apoorba. Inside was a single sheet, printed on the directorate's cream stock, with a paragraph of text and a line for a signature. "Because the answer is that the western squadron had three aircraft coming off a training cycle, and the strike cycle was tight. It was a matter of resource efficiency. The Director-General's office approved the change to protect the schedule. The revision was logged, and it was logged correctly. The only thing the system couldn't record was whether the operator had had a chance to see it."
+
+"I didn't see it."
+
+"You didn't look." Dasgupta's voice remained gentle. "That's the subtle part, Mr. Chatterji. I'm not accusing you of anything. I'm asking you to acknowledge a fact about your own review. You had the information in front of you, and you processed the file at the standard interval, and you confirmed it. The revised window was not an obstacle to you. It was a condition of the file, and you accepted the condition, the way every operator accepts every condition in every file, because that is what the protocol asks of you. You are a reliable component. That's a very good thing to be."
+
+Apoorba thought of the green book on his desk, open at the title page. *Where is the human in this loop? At the point of confirmation.* He thought of the margin note in the neat ironic hand.
+
+"Is there a problem with the file?" he asked.
+
+"No problem at all." Dasgupta closed the folder. "The file is open. The window stands. The Office of the Director-General has no further questions about the window."
+
+"And the cellular ghost?"
+
+"Which ghost?"
+
+"The file's candidate. SR-7." Apoorba heard his own voice from a little distance, level and dry. "The file had a cellular ghost on the third floor of the Lansdowne block. The Office has the telemetry. Did the ghost—"
+
+"Mr. Chatterji." Dasgupta lifted one hand from the folder, very slightly, and the room seemed to tighten around the gesture. "The operator's responsibility is to the confirmation. The confirmation was made. Downstream effects are assessed by the post-strike cell, which as you know no longer conducts assessments for junior-tier targets, in accordance with the Director-General's policy of 1 April. I'm not in a position to tell you what the post-strike cell has or hasn't determined about a cellular ghost in a residential block. I'm sure it's been a difficult night for everyone. And I'm sure you'd like to be seen to be taking the view that the system has been managed correctly."
+
+"I'd like to know if the family—"
+
+"Mr. Chatterji." Dasgupta's smile had gone. In its place was something more patient, and more tired, and worse. "I think you're a decent man. I think you've had a hard year. I think, if you were to talk to your wife about it, she'd tell you to take the offer we're about to make, which I'm going to make now, and which I'd ask you to consider very carefully before you say anything you might regret in writing."
+
+He opened a second sheet from the folder and turned it around.
+
+*Transfer Notice — Directorate Logistics and Records Support. Effective Monday next. Grade maintained. Protocol clearance: standard. No change in remuneration.*
+
+"Logistics and Records," said Dasgupta. "It's a quieter floor. You'd be sorting the archive. Indexing old files, reconciling the cellular registers. The work is important. It's the kind of work that protects the integrity of the chain. We'd be very glad to have someone of your experience in it."
+
+Apoorba looked at the word *archive*. He thought of Ashoke's reel-to-reel box, which he had never seen, and of the sheets of names that had been read on the evening bulletins and then sealed in a directorate basement. He thought of the eleven screw holes in the stone at the entrance. He thought of a steel tiffin box with his wife's dry aloo in it, and a smaller one with a page of multiplication inside.
+
+"And if I decline?" he asked.
+
+"Then we'll review the file again," said Dasgupta, "and you'll be asked to sit with the compliance panel, and the panel will ask you the same questions I've asked you, and it will take four days, and you'll be on leave for those four days, which is always very hard on families." He picked up a pen. He did not offer it. "I don't want that, Mr. Chatterji. I really don't. I want you to be consistent. That's all the directorate has ever asked of anyone."
+
+Apoorba picked up the pen. His hand was steady. That frightened him again, the old fear, the sense of a body moving on its own while the man inside it watched. He signed the cream-stock sheet in the place marked for his signature, in the careful round hand he had learned at the Shyambazar school, and he read the signature back to himself as he wrote it, the way he read every file.
+
+Then he signed the transfer notice too.
+
+Dasgupta took both sheets, squared them against the folder, and put them away without looking at them again. He stood, and offered his hand across the desk, and Apoorba took it, because a man who refused the hand had already decided something.
+
+"You're doing the right thing," said Dasgupta, meaning it, Apoorba thought, in the way that men mean things they have been trained to mean. "The machine can't carry this, you know. It's too heavy. It needs people who know when to put it down."
+
+"Yes," said Apoorba, and let go of the hand.
+
+He went down in the lift with the mirrored walls and the faint smell of carpet cleaner. In the mirror he saw a tall man in a damp shirt, with his collar still wet from the night and his hair pressed flat on one side where he had lain on the bed without undressing. The man's face did not look like anyone Apoorba recognised. It looked like a clerk who had been asked to sign a receipt for something he had already lost.
+
+On the ground floor the guard said, "Sir, your badge," and Apoorba held it up, and the guard nodded and looked away, the way the guards at the directorate always did, as though a badge were an apology for a face.
+
+He went out past the eleven empty screw holes, into the afternoon heat off the river. The water was brown and moving fast. A ferry was crossing toward Howrah with its deck crowded and its horn sounding twice, and the wind came off the Hooghly and lifted the hair on his forehead, and somewhere behind him in the building a screen was showing the cellular ghost of a family on the third floor of a block on Lansdowne Lane, marked *Pending*.
+
+He did not go to the metro. He walked. He walked along Strand Road in the heat with his hands in his pockets and the signed transfer notice folded in the inside pocket of his jacket, over his heart, where the page of multiplication would later go, and he counted the steps as he went without meaning to, the way he had counted the screw holes every morning for nineteen months. Four hundred and twelve steps to the ghat. Six hundred and three to the corner of Hastings. He stopped counting when he reached the river wall and stood looking at the water, the ferry and the brown current and the far bank with its cranes and warehouses, and he thought, for the first time in a very long time, about the word *confirmation*, and how it had sounded when he was a boy in the Shyambazar school, reading it aloud from the grammar book in a teacher's voice. *To confirm: to make firm. To establish as true. To fix in place.*
+
+He had always thought the word meant to hold something up.
+
+It occurred to him now that it might have meant the opposite. To fix a thing in place so it could not move.
+
+* * *
+
+On the way home, in the crowded second carriage, a boy in a torn school tie stood near the door with a phone held up to the window, photographing the river as it appeared and vanished between the bridge's pillars. Apoorba watched him for two stations without meaning to, and then understood what he was watching for, and looked away.
+
+At Tollygunge he got off and walked the last kilometre to his lane in the dusk, past the tank behind the old police lines. The water was still and dark, a single mosquito lamp burning on a pole above it, and children shouted on the other side of the wall. He stopped at the edge of the tank. Nothing moved on its surface.
+
+In his bag the second tiffin box sat unopened. Under a square of waxed paper, Mitali had folded a page torn from a school exercise book, on which she had written, in her round careful script, the answer to a multiplication problem Tuli had got wrong that morning. Twelve times fourteen. She had worked it out in full, in the same place Tuli had written it, so the child would see that her mother had once made the same mistake, had corrected it, and had not been ashamed.
+
+Apoorba did not know that yet. He would open the box at the kitchen table that night, under the lamp, read the page twice, and put it inside the cover of the Director-General's green book, where it would stay.
+
+For now he stood at the edge of the tank with the river wind coming up off the dark water, listening to the children on the other side of the wall. He did not move. For the first time in nineteen months he could not think of the next thing the protocol required of him.
+
+---
+
+CHAPTER# Part Two: Chapters 4–9
+
+---
+
+CHAPTER 4.
+
+The stairs of lane four smelled of carbolic soap and boiled rice. Gourmohan climbed them in the dark without touching the rail, because the rail had been painted so many times that the paint had grown a skin of grit, and because he remembered every step of this stairwell from the years when he was small enough to be carried up it on someone's hip. The landings were the same. The third one still had the broken bulb in its cage. On the fourth a child had drawn a fish in chalk on the wall, and someone had drawn a second fish beside it, and someone else had written beneath both, in Bengali, *these two are going to get married*, and then had rubbed out the last word so that the sentence said only that the two fish were going to.
+
+He did not stop to look at the fish. He had stopped looking at things in the second year. Looking, in the cartel's cities, was a thing the machines did with faces, and a man who looked too long at anything gave the machines a reason to look back.
+
+The door to the roof was propped open with a brick. A breath of night air came down the stairwell, cooler than the lane, carrying the smell of tar softening under the day's last heat, and the smoke of a single cigarette, and under both, faint and sweet, the marigolds from the wagons, which were apparently everywhere in this city in October.
+
+He stepped out onto the roof and the singing stopped.
+
+It stopped the way a flock of birds stops when a shadow crosses the field, all at once, with the particular silence that comes after a sound one has been holding inside oneself. Forty-one people turned. Some of them stood. A woman near the harmonium pulled her dupatta over her head, an old reflex, and then looked annoyed with herself and let it fall back. An old man in a white vest, sitting on an upturned crate by the water tank, put both hands on his knees and did not get up.
+
+The sodium lamps threw their orange over the tar. Behind the water tank, half-hidden by its iron legs, the copper riser ran down the back wall toward the lane, and beside it, wedged where the brick wall met the tank's base, two grey units sat with their stencilled labels turned toward the stair. The little green diodes on them were steady. Whatever the classifier was seeing from the sky, the roof had gone quiet, and a quiet roof, in Kolkata that autumn, was the most dangerous thing a person could be.
+
+"Gourmohan," said the old man on the crate.
+
+Shibnath Ghosh had aged in the eight months since Gourmohan last saw him. His hair had gone entirely white and had been cut badly by someone who loved him. His shoulders had narrowed. But his eyes were the same, rimmed in red from years of drink and years of reading by the lamp in the lane, and they looked at Gourmohan now with the exact expression they had worn across the tank in Tollygunge when a boy of eleven had come up from the water choking and refused to say he was afraid.
+
+"Shibnath-da," Gourmohan said.
+
+"You're thinner. Sit down before someone shoots you for standing."
+
+"No one's going to shoot me on a roof with forty-one people on it."
+
+"Forty-one," Shibnath said, "is what the machine says. You'd know better than the machine how many there are." He lifted his chin toward the water tank. "It's gone dead up here since the sun went down. Saikat says the phones don't find us anymore. He's delighted. He went around the whole roof last night saying he'd finally been disconnected from something useful."
+
+From the far edge of the roof a young man laughed, a loud, unselfconscious laugh, and then a boy's voice said, "Dada, don't tell him that, he'll go find a clerk and file a complaint."
+
+Saikat came across the tar in his torn school tie. He was thinner than his photograph, which the directorate's imagery people had cropped so tightly that only the tie and the eyes had survived. He stopped a few paces off and looked at Gourmohan with the wary, unembarrassed curiosity of a boy who had decided long ago that the grown-ups around him were mostly lying.
+
+"You're the one from the bay," Saikat said. "The clerk in the grey coat. You walked past the gate like you owned the numbers."
+
+"I walked past the gate like I was tired."
+
+"That's what I said." Saikat grinned. "I said he's a clerk. Clerks are always tired."
+
+The woman with the dupatta came forward from the harmonium. She was in her thirties, with a sharp, handsome face and a scar along the left knuckles of one hand, the old-fashioned kind a broken glass leaves. She did not look at Gourmohan the way the others did, with reverence, or fear, or the faint embarrassment people reserved for those who had become symbols. She looked at him as though he were a debt she had decided to collect later.
+
+"You're late," she said. "We were told you'd come when the jammers were up. They've been up for twenty minutes. Did your Sucharita-di build them, or did she just hand them to you and tell you not to breathe on them?"
+
+"She built them."
+
+"Good. Then they'll hold till morning." The woman folded her arms. "I'm Rekha. Some of the people on this roof have been coming here for four years to sing. Some of them came for the first time tonight because they heard a song on a phone and thought it was about them. I'm the one who told the harmonium player to keep going when the lamps went out. You can tell me now if you're here to stop us."
+
+"I'm here to talk."
+
+"Talk is what the machine does," Rekha said flatly. "It talks for two hours and then sends a list."
+
+He looked around the roof. The circle of faces had closed a little, not into a crowd but into a shape, the way a group of people does when they have stopped being strangers and have not yet become a family. A girl with a plait down to her waist was holding an infant against her shoulder. Two men in shirtsleeves had their backs against the parapet. A boy of perhaps twelve sat on the lip of the water tank's plinth, his feet dangling over the lane, writing something in the corner of a school notebook with a stub of pencil. Every one of them had the same stillness about them, the stillness of people who have learned to hold their breath in public.
+
+He had been trained to speak to crowds. The cartel's propaganda school had taught the method in the second year, in a lecture hall with a fan that never turned. *Establish the enemy. Name the grievance. Offer the path. Repeat until the path is the only path.* He had learned it the way he learned everything in that place, quickly, and with a grim precision that had surprised the instructors.
+
+He did not use the method now.
+
+"Last week," Gourmohan said, "a machine in a building on Strand Road read a face on a train platform and decided that the face belonged to a man who had fought in the Bally district three years ago. The face belonged to a tailor's son from Shyambazar who had gone to the platform to see his sister off to Durgapur. The machine was ninety percent sure."
+
+Nobody moved.
+
+"Ninety percent is what the machine calls certain. It calls certain when it has been wrong one time in ten. The cartel's own engineers wrote it down. Ten point two percent. It's in their documents, in a font they use when they want a thing to look like weather." He let his voice drop, and heard, for the first time in months, the old timbre come back into it, the depth that his mother used to say was not in his throat but somewhere lower, in the earth under the city. "One in ten. That's your neighbour. That's the man who fixes the lamp outside your gate. That's a boy who got his phone stolen in Dum Dum and sold it to a stranger. The machine doesn't see the stranger. It sees a number that fits its shape, and it writes the number on a list, and somebody in a glass room at the top of a building puts his finger on a key, and somebody else—"
+
+He stopped. He had felt the words leaving him too fast, the old rhythm pushing up through his chest like water through a crack in a dam, and he took a breath and let it go.
+
+"Somebody else," he said more quietly, "is a man in an office who has twenty seconds to look at a file. He doesn't look at the file. He looks for the one thing the form asks him to look for, and then he clears it. And a building falls down."
+
+From the parapet, one of the men in shirtsleeves said, in a flat voice, "I know that. My cousin's building. Ballygunge. Three weeks ago."
+
+"I know," Gourmohan said. "I'm sorry."
+
+"Being sorry doesn't bring them back."
+
+"No."
+
+The men looked at each other. The girl with the plait shifted the infant to her other shoulder. The boy on the water tank had stopped writing and was watching Gourmohan with the open, unguarded attention of a child listening to a story he suspects is true.
+
+"The machine has no sorrow in it," Gourmohan said. "It has a rating. A number from one to a hundred that tells it how much a life is worth to the list. And the men who built it have decided that a life is worth exactly what the number says, because it's easier to kill people who are numbers than people who are people. I think you already know that. I think you came up here to sing so you wouldn't have to say it out loud."
+
+"Then what do we do?" said Rekha, from the harmonium. Her arms were still folded. Her voice was not hostile. It was the voice of a woman asking for the thing she has been waiting to hear for a long time, and does not yet believe.
+
+He could have said *fight*. Sucharita had told him, that morning, in the kitchen, that the men in the lanes wanted to fight, that they had been asking for weeks, that the cell leaders had a list of their own. He could have said *wait*, and bought himself a month. He could have said *go home*, which was what the cartel's propaganda would have said, and what Sucharita, in her clean rational way, would have called the only responsible course.
+
+"We stop being a number," Gourmohan said. "Every one of us. We give the machine a face it can't match. We don't hide. We don't run. We sing where it can hear us and we don't let it know which of us is which. We tell the people in the next lane what the number means. And when the list comes, we make the man at the top of the building read the name on it out loud before he clears it."
+
+"That's not a plan," said one of the shirtsleeved men.
+
+"No," Gourmohan agreed. "It's the beginning of one."
+
+For a long moment nobody spoke. Then the old man on the crate, Shibnath, who had said nothing since the first greeting, reached down beside him and lifted from the tar a battered harmonium case. He pried open the latch. The instrument inside was almost the same as the one Rekha was holding, lacquered brown, its bellows patched with tape.
+
+"Mrs. Basu's," Shibnath said. "She taught you the second verse. Do you remember?"
+
+Gourmohan remembered. He remembered a woman with grey hair pinned in a bun and a pencil behind her ear, sitting at the harmonium in the upper room of the lane-four house with the windows open and the smell of lentils coming up from the kitchen below. He remembered the bellows sighing like an old dog. He remembered the first line of the song, which she had taught him by holding his hand flat on the case so he could feel the note come through the wood.
+
+"I remember," he said.
+
+"Then sing it," Shibnath said. "Badly, the way you used to. Let the machine hear you."
+
+Gourmohan did not sing well. He had never sung well. His voice was too deep for the melody and it wandered, in the first lines, on the wrong side of the note. But when he reached the second verse, the one about the river and the bride and the sea that had never been named for her, he felt the roof take the sound. Rekha came in beneath him, low and steady. The girl with the plait came in, and then the two men from the parapet, and then the old woman who had pulled her dupatta up and then let it fall. Saikat sang with his mouth open and his eyes shut, too loudly, and the boy on the water tank began to sing with the pencil still in his hand.
+
+The sodium lamps flickered and held. Below them, down in the lane, a dog barked once and was answered by another. Across the rooftops someone turned on a radio and turned it off again.
+
+On the tablet in Rekha's hand, which she had taken from her pocket and placed face-up on the crate beside the harmonium, a line of text blinked and then went dark.
+
+> *SECTOR 11-E / CLUSTER ALERT / GARIAHAT RD. (N) LANE 4 — NO SIGNAL — FAULT SUSPECTED*
+
+Gourmohan saw it over her shoulder and did not stop singing. He saw Saikat see it, and grin, and go on. He saw the girl with the plait close her eyes.
+
+The second verse ended. Nobody applauded. Nobody needed to. The silence that came after it was the same silence he had heard when he came up the stairs, but it was different now, the way a room is different after a child has been born in it, and everyone in it has started to think about what the child will need.
+
+"Gourmohan," Shibnath said, very low, under the cough of the lamps, "that boy with the tie. Saikat. Do you know whose name he's carrying?"
+
+"No."
+
+"His father's. The one they took in 2041 for the Ballygunge bombing. They have his face on a list too. Nobody told the boy. He thinks he's the first."
+
+Gourmohan looked across the roof at Saikat, who was laughing at something the girl with the plait had said, his head thrown back, the torn tie flapping against his shirt.
+
+"Then he'll have to be the first to say so," Gourmohan said.
+
+---
+
+CHAPTER 5.
+
+The city ended in fish.
+
+Gourmohan walked out to it on foot, the way he had walked as a boy on the days Anandamoyi sent him to the fishermen's cooperative with a steel pot and a list of things she could not carry. The sensor poles stopped at the Dhapa embankment. After that they were only iron stumps in the mud, their cross-arms snapped off or bent by the storms of the last decade, and the cameras that had once hung from them lay in the ditches with their lenses full of water. Nobody had come to take them away. The directorate had written them off in its first year of the Protocol, and the ditches had made their own arrangements.
+
+Past the last stump the land opened into bheris, the old sewage-fed fishponds that had kept the city in carp for a century. The water lay flat under the evening, grey-green and smelling of rot and of something sweeter underneath, the smell of the mud where the city's waste turned slowly into fish. Egrets stood along the banks with their necks folded, unmoving, like white paper cut out and set down. Beyond them the paddy had been cut, and the stubble ran away to the horizon in long pale strokes, and the sky above it was going the colour of ripe guava, and the first star had come out over the field as though it had been waiting its turn.
+
+He stopped on the embankment for a moment. He had not meant to. His legs had simply decided it, the way they had on the roof, and he stood with his hands in the pockets of the grey coat and let the wind come off the water and press his shirt against his back.
+
+The frogs had begun. They started at the edge of the nearest pond and spread outward in a wave of clicks and croaks until the whole flat country rang with them, a sound that had no argument in it and no rating and no field waiting to be filled. He had heard this sound every evening of his childhood. He had heard it on the night the directorate's first sensor pole went up outside the old school in Tollygunge, and had not heard it again for almost a year, because the frogs had been frightened off by the generator hum. They had come back to the bheris before anyone else did. He had never been sure whether to admire them for it.
+
+Her house stood at the end of the embankment road, on the last piece of solid ground before the water. It had been built of brick and then plastered, and then the plaster had fallen away in patches so that the brick showed through like the ribs of an old man's chest. The roof was tin, mended with sheets of blue tarpaulin tied down with rope. There was no wire running to it. There had never been wire. When the directorate's engineers came through in the spring with their handheld scanners, they had stood in the lane outside the gate and read the empty air for twenty minutes and then written, in their report, *no residential signal of registrable significance*, which Anandamoyi had found so funny that she had made them tea.
+
+The gate was open. It was always open. He went through it.
+
+A lamp burned in the front room, an old kerosene lantern with a glass chimney blackened at the top, and beside it on the floor, in a line that stretched back into the dark of the house, sat perhaps twenty people. Some were asleep against the wall with their heads on bundles. Some were eating from tin plates, slowly, with their fingers, the way people eat when they have learned that food can be taken away. A small boy was asleep across the lap of a young woman who sat with her back to the doorframe, her bandaged foot stretched out in front of her and her eyes half closed. Two girls of about twelve were sorting lentils from a bowl by the lamp, picking out the grit with a seriousness Gourmohan recognised, because he had done the same thing at their age.
+
+Nobody looked up at him with alarm. Nobody asked his name. A man near the door nodded to him as one might nod to a neighbour who has come to borrow a pan, and went back to his plate.
+
+From the kitchen at the back of the house came the sound of a ladle against an iron pot, and the smell of mustard oil and ginger and cooked rice, and the voice that had sung him to sleep on the mat by the stove for the first nine years of his life.
+
+"You're late," said Anandamoyi, without turning round. "The khichuri's been ready since seven. It's the same khichuri it was yesterday. Don't tell me you've come to say you're sorry about the roof."
+
+He stood in the kitchen doorway. The kitchen had a clay stove built into the wall and a single bulb hung on a flex from the rafters, powered by a battery the size of a rice sack that a cousin in Hooghly had brought in June. The light made the steam rising from the pot look like smoke from a sacrifice. Anandamoyi stood at the stove in a faded cotton sari with the end tucked into her waist, a small, straight-backed woman of sixty-eight with white hair in a plait down her back and forearms that had carried water and coal and children for longer than the directorate had existed. She stirred the pot with her head tilted, listening to it.
+
+"I'm not sorry about the roof," Gourmohan said.
+
+"Good. Then you can help me with the plates." She put the ladle down, wiped her hands on her sari, and turned. Her eyes went over him once, from his shoes to his face, the way she had gone over him at eight, at fifteen, at twenty-six, the glance of a woman checking a child for fever without wanting him to know she was checking. Whatever she saw, she did not say. She said, "Sit down before you fall down. You look like you've walked from the city."
+
+"I walked from the city."
+
+"Then sit down and tell me about the roof."
+
+He sat on the low wooden stool by the stove. She gave him a tin plate and a fistful of rice and dal, and a spoon of ghee that she had clearly been saving, and she did not sit herself. She stood at the stove with her back to him and her arms folded and waited.
+
+He told her. He told her about the list on the tablet and the zero registered devices and the three ranked nodes, about Shibnath on his crate with his hair cut badly by somebody who loved him, about Saikat's laugh and the girl with the plait and the infant on her shoulder. He told her about the harmonium. He did not tell her about the speech. He found, when he came to it, that he could not say the words *ninety percent* in her kitchen, with the girls sorting lentils in the next room, and so he said instead that he had talked to them, and that they had sung, and that the machine had lost its sight of the roof for an hour.
+
+"And you talked," said Anandamoyi.
+
+"Yes."
+
+"What did you tell them?"
+
+He put down the spoon. "That the machine has a number for them. That it's one in ten wrong. That the man who clears the file has twenty seconds, and that he spends the first of them looking for the thing the form asks him to look for. And that they should make him read the name out loud before he clears it."
+
+She was silent for a moment. The pot ticked on the stove.
+
+"And will he?" she said.
+
+"Read the name?"
+
+"Yes."
+
+"I don't know."
+
+"No," said Anandamoyi. "He won't. He'll read it the way he reads everything, in the voice of a man who has been told the name is a formality, and then he'll clear it, and then he'll go home and eat his dinner. A name said out loud doesn't change what a man does in a room. It only changes what he has to pretend he didn't hear." She turned at last, and looked at him directly, and her face in the bulb's harsh light was not angry. It was tired in a way that made her seem, for an instant, very old. "Gour. Names are not a weapon. You know that. You're the one who taught Shibnath's school to write them."
+
+"I know."
+
+"Then what are you doing with them?"
+
+He did not answer at once. He picked up the spoon again and turned it over in his fingers, and saw his reflection in the bowl of it, a warped grey face with the bulb's light across the forehead.
+
+"Sucharita's jammers are in the roof," he said at last. "The machine can't see the roof. It sees a silence. The silence is a fault, and the operators have to decide whether a fault is a person, and they decide in twenty seconds. So the jammers buy time. The time buys people. But time isn't free. There's a cost to every hour the machine has to spend looking for a face it can't find." He set the spoon down. "We have a plan for the cost. Some of it is in the datasets. We put enough noise into the training sets that the model starts to hallucinate. It starts to see threats that aren't there, and it starts to miss the ones that are. And the operators spend more time confirming, and the strike windows slip, and—"
+
+He stopped.
+
+"And?" said Anandamoyi.
+
+"And some families are in the wrong place when the windows slip."
+
+"How many families?"
+
+"I don't know. Sucharita has a model. It doesn't have a column for kites."
+
+She made a small sound, not quite a laugh. She came across the kitchen and sat down on the second stool, the one with the cracked seat, and took the spoon from his hand and set it on the tin plate.
+
+"Then count the families you feed," she said.
+
+"Ma—"
+
+"No. Listen to me. You've been counting the families the machine kills since you were twenty-six years old. You count them the way a clerk counts money he is going to steal. You know the number to the decimal. Do you know how many people you fed this month?"
+
+He thought of the roof, the forty-one, the harmonium. He thought of the stairwell at Lansdowne, the boy counting in English on the landing, the old man's light weight on his shoulder.
+
+"I don't know."
+
+"Then count them." She reached out and put her hand on his knee, dry and hard, the hand that had cut his hair with the kitchen scissors when he was nine and had told him to sit still or she would give him the wrong shape. "Count the boy who sleeps on that woman's lap. Count the girls with the lentils, who will tell you tomorrow which of them is the cleverest. Count the old man in the corner who has been coughing since Monday and who we have not yet been able to send to the hospital at Dum Dum, because the hospital has a machine at the gate that asks for a name. Count everybody who has walked up that road in the last six months with a mark on their face, and who I have never once asked to show me a card."
+
+He looked through the doorway into the front room. The boy was still asleep across the young woman's lap. Her bandaged foot had slipped from the cloth and rested on the floor, the skin around the wrapping purple and swollen, and she had her hand on the boy's back, moving it in small slow circles, as if she were trying to write something on him that he would remember when he woke.
+
+"What's her name?" Gourmohan asked.
+
+"I don't know," said Anandamoyi. "She came up the road on Thursday with her brother and his wife and their two girls. The brother's wife had a baby. The baby died on Friday. The brother's gone to Bally to find out if there's a camp that takes families without numbers. She hasn't told me her name, and I haven't asked, and she's been sleeping better than I have since she came."
+
+"Ma, the machine—"
+
+"The machine," said Anandamoyi, "has never once slept on my floor. It doesn't know what it's missing." She stood, and picked up the ladle, and turned back to the pot. "Go and sit with her. Don't talk. Just sit. And when the boy wakes, let him see your face, because it'll be the first face he's seen all week that wasn't looking for something."
+
+He stood. The stool scraped on the tile. He went to the doorway and stopped there, and looked back at her.
+
+She had her back to him again, her shoulders bent over the steaming pot, the lamplight on the white plait. She said, without turning, in the same tone she had used for the khichuri and the plates: "And Gour. The thing with the datasets. Don't do it without telling Sucharita the exact number of boys who'll be on the stairs when the noise goes in. She may be cleverer than you. She's certainly less in love with the sound of her own voice."
+
+He laughed. It came out of him before he could stop it, a short startled sound, and in the front room the young woman looked up from the boy, and the two girls with the lentils looked up, and the old man in the corner opened his eyes for a moment and then closed them again.
+
+Gourmohan went and sat down on the floor beside the young woman with the bandaged foot. He did not speak. He put his back against the wall and his legs out in front of him, and the boy on her lap stirred, and frowned, and opened one eye and looked up at the tall grey shape against the lamplight, and did not cry.
+
+The boy looked at him for a long time. Then he said, very seriously, in a sleep-thickened voice: "You're the one who sang the river song on the roof."
+
+"Yes."
+
+"Sing it again."
+
+"I sing badly."
+
+"Sing it anyway," said the boy. "Nobody here sings well. We just sing."
+
+So he sang. He sang the second verse, low, in the lamplight, with the frogs starting up again outside in the bheris and the sound of Anandamoyi's ladle ticking against the pot in the kitchen, and the young woman's hand going on moving in slow circles over the boy's back, and the girls with the lentils stopping their picking to listen. His voice wandered on the high notes, as it always had. Nobody corrected it.
+
+When he finished, the boy was asleep again. The young woman was looking at Gourmohan with an expression he could not read, the look of someone who has been given a thing she did not ask for and does not yet know how to refuse.
+
+"Thank you," she said.
+
+"For what?"
+
+"For being bad at it," said the young woman, and smiled, and closed her eyes.
+
+Later, when the lamp had been turned down to a blue thread and the household had settled into the thick uneven breathing of people who had been awake for too long, a boy came up the embankment road on a bicycle with no lights. He did not come to the gate. He stopped at the bottom of the lane and whistled twice, a short falling note, the sound of a messenger who did not want to be seen. Gourmohan went out to him.
+
+"Malati-di says the council's at half past nine," the boy said, breathless, his bicycle leaning against his hip. "Lake Town. The dentist's room. She says Sucharita-di's been there since seven and hasn't sat down."
+
+"Tell her I'm coming."
+
+"And Tarak-da says to tell you he's already here. He says he doesn't need you to come, he needs you to come before the Lansdowne file goes to strike."
+
+Gourmohan looked back over his shoulder at the house. The lantern was out. The last thread of blue showed under the door of the front room, and through the gap in the tarpaulin on the roof he could see the first clear stars over the bheris, very bright, the way they always were out here, where nothing had yet learned to count them.
+
+"Tell him I'm coming," he said again, and then, more quietly, "and tell Sucharita the number is sixty-four. The boys on the stairs. Not one of the families. The boys."
+
+The messenger stared at him. "What number?"
+
+"She'll know," said Gourmohan Roy, and turned back toward the house.
+
+---
+
+---
+
+CHAPTER 6.
+
+The Lake Town flat had been a dentist's surgery before the war, and the chair was still bolted to the floor in the back room, its leather cracked and its headrest tilted toward the window. Nobody sat in it. Tarak Mondal had tried, once, in the early weeks, and had said it made him feel like a man waiting to have a tooth taken out by someone who did not believe in anaesthetic. He had been a corporal in the signals regiment before the regiment was absorbed into the Iron Swarm's support wing. He still walked as though the floor might be listening for his boots.
+
+At Salt Lake, in the spring of 2044, the review memos for the junior-tier strike packages had come to Sucharita's desk in a grey folder with a red tab. Her supervisor, Rathin Bose, was a gentle man with a bad knee and a habit of humming Hemanta songs while he read. He had dropped the folder on her desk one Thursday afternoon, tapped the box marked *Assessment of Model Tolerance*, and said without looking up: "Write something sensible. The Director-General's office wants the phrase *within acceptable tolerance*. You'll know what I mean when you see the numbers."
+
+She had seen the numbers. She had read the ten point two percent and the twenty-second review interval and the abolition of the damage assessment, and she had sat for twenty minutes with the pen in her hand while the air conditioning breathed down the back of her neck. Then she had written the phrase. *The false positive rate of 10.2 percent is assessed to be within acceptable tolerance for the stated operational objective.* It had taken four seconds. She had initialled the bottom of the page in her small slanted hand, the same hand she used for lecture notes at Jadavpur and birthday cards to her mother, and Rathin Bose had said *good girl* and gone back to humming.
+
+Six weeks later the strike package went up against a block off Ballygunge Place. Her memo was in the file. It was the only human sentence in the file.
+
+She had told herself afterward that she had written it so someone would have to read it. She had told Gourmohan the same thing, in the first week after her defection, at the kitchen table in Lake Town with the tea going cold. He had listened without interrupting. Then he had said, gently, that the impulse was honest, and that it did not change the fact that a sentence written in four seconds was still a sentence, and that the machine had read it in four seconds too and found it exactly the shape it needed.
+
+She had not spoken to him for a day after that.
+
+Now the dentist's room was empty. The others would come within the half hour, and she had come early, as she always did, to sit with the sheets before anyone could look over her shoulder. The lamp hissed under its paper shade. The chair by the back wall still stood bolted to the floor, its leather cracked, its headrest tilted toward the window and the courtyard, where the neighbour's girl had left a chalk drawing of a fish on the flagstones. The fish had been half rubbed out by the evening rain and drawn again.
+
+Sucharita picked up the pencil. Beneath the three pencilled columns she wrote the name of the block, the census figure, the model's figure. *Lansdowne Lane, third floor. Census: two households. Model: one ghost. Expected collateral: 4.3 (per model).* She looked at the last of these for a long moment. It was the same number she had seen on the telemetry sheet, the same number she had seen eight weeks earlier in a glass room at Salt Lake, the same number a clerk had seen this morning on a screen in a corner with no windows. It did not know it was a number about a six-year-old boy in red rubber sandals.
+
+Under it, in the small slanted hand, she wrote: *Model figure not accepted pending verification.* And beneath that, as she had initialled the memo at Salt Lake, the two letters she had sworn she would never again put beside a number she had not personally checked.
+
+*S.S.*
+
+Then she sat with the pencil in her hand and waited for the footsteps in the courtyard, and when they came she did not look up at once.
+
+There were seven of them in the front room that night, around a table made from a salvaged door laid across two filing cabinets. A single lamp with a paper shade gave the light. Outside, the courtyard was dark, and the neighbour's girl had stopped practising her scales at ten.
+
+Sucharita had a sheet of paper in front of her with three columns pencilled on it. Gourmohan sat at the far end with his back to the wall and his hands folded on the table, quite still, the way he sat when he was trying not to say the first thing he thought. Tarak sat on the right, arms crossed. Next to him was Malati Roy, who was not related to Gourmohan despite the name and who ran the mesh node network across the eastern wards with a patience Sucharita envied. On the left sat Dipak, a former municipal electrician with a burn scar on his forearm, and beside him a quiet, round-faced man called Ashoke who had once been a radio announcer and still spoke as though someone were recording him. The seventh chair was empty. Its occupant had been asked to attend and had not come.
+
+Tarak Mondal had not sat in the dentist's chair since the day he told them about his sister. Sucharita had heard the story once, in the second month, from his own mouth, and had not asked for it again. His sister Parul had worked the cutting tables at a tailor's shop on Shyambazar Street, the kind of shop where the owner's daughters slept in the back in summer. When the directorate's rule dropped a package on the nearest residential block in that corridor, the shop had been the nearest. Parul had been seventeen, sewing a wedding blouse for a bride who was coming to collect it on Thursday, and the thread was still in the needle when the rescue cells found her. The model logged the event as an unguided discharge requiring no further action. Tarak had been on the Rashbehari side that night with charges wired to a relay box, waiting for an aircraft that never came down where he had been told it would. He had watched the smoke over Shyambazar rise like ink poured slowly into water. He had gone home and sat in his mother's kitchen without speaking for a week, and when he finally spoke it was to ask whether anyone had thought to bring the blouse.
+
+Nobody had. The blouse had burned with the shop.
+
+He sat now at the end of the salvaged table with his back to the dark courtyard, one leg jiggling under the wood in the way Sucharita had learned meant he was trying not to get up.
+
+Across from him Ashoke had taken out a small black notebook with a cracked spine. He had been a radio announcer for the state broadcaster until 2041, when the directorate reorganised the archives and found that a great many announcers' voices were no longer required by its procedures. Ashoke had kept his voice. He had also kept, in a biscuit tin beneath his bed in Lake Town, a reel of tape onto which he had recorded every name the state read out on its evening bulletins during the four years of the Protocol: the arrested, the dead, the officially regretted. He had told Sucharita about it once, in the tone of a man confessing a minor vice. *The machine doesn't read them aloud,* he had said. *It doesn't have to. Someone should keep them in a voice.*
+
+Malati sat very straight beside him, her hands flat on the wood. She had taught primary school in Entally for twelve years, until the schools were closed and the children moved into the directorate's cellular classrooms, which had no windows and no teachers, only screens. Now she ran the mesh: three thousand two hundred nodes across the eastern wards, each a battered handset with a hand-soldered antenna, hidden in tin boxes behind shop shutters and under the eaves of temples and the back rooms of tea stalls. A message could travel from Garia to Dum Dum in eleven minutes, provided every person who passed it on knew the others' faces. *It's not a machine,* she had told Sucharita in her first week, with the patience of a teacher explaining long division. *It's a row of people who trust each other enough to say a thing twice.*
+
+Dipak had a cup of tea going cold at his elbow. He had not touched it. His burn scar had reddened in the lamplight, and every few minutes he rubbed the heel of his hand across it, though Sucharita knew it did not itch. He had spent twenty years inside other people's electrical systems and had learned, he once said, that the systems never betrayed you; it was the people who had built them who did.
+
+
+"The file is SR-7," Sucharita said. "The model rates her at sixty-eight. Co-presence with two flagged individuals, a location entropy spike, and a face match at 0.41 to a 2042 arrest. The match is secondary. The advisory note says low confidence." She turned the sheet toward the lamp. "The name is Rekha Mondal. Thirty-four. Born in Tollygunge. Sells dried fish at the Bhowanipore market on Tuesdays and Fridays. Lives on the third floor of a block on Lansdowne Lane with her son, who is six, and her mother, who is seventy-one and does not walk up the stairs anymore."
+
+"You had all that in the file?" said Tarak.
+
+"I had all that in four minutes on the telemetry server," Sucharita said. "The file doesn't have the mother. The file has the cellular correlate. The mother's phone was registered to Rekha's account until 2041. The model is still using the old registration to estimate occupancy."
+
+"So the model thinks it's one person," said Malati.
+
+"The model thinks it's one person and a cellular ghost. The census says two families on that floor. The model multiplied them and got a number."
+
+"What number?" Dipak asked.
+
+Sucharita did not look at the paper. "Four point one."
+
+The lamp hissed softly. Tarak uncrossed his arms and recrossed them the other way.
+
+"The strike is set for twenty-three hundred," Sucharita said. "It was moved this afternoon to twenty-two forty, because the aircraft from the western squadron are coming off a training cycle and the windows have to be matched. I have the revised order. It came through the directorate's own feed, and whoever approved the change didn't think to scrub the timestamp."
+
+"Twenty-two forty," Gourmohan said. "That's in an hour and a half."
+
+"In an hour and a quarter."
+
+Tarak leaned forward. "Then we hit the relay," he said. "The Rashbehari tower. It's the only thing in that corridor that carries the Ghar-Dhundho handshake to the aircraft. Take the tower down and the strike loses its guidance. The package goes dark and the aircraft turn back. Dipak and I can have charges on the base in forty minutes. We've done it before."
+
+"You did it before at Shyambazar," Sucharita said. "The tower came down. The aircraft didn't turn back. They dropped the package on the nearest residential block because the guidance was lost and the rule says drop on the last known coordinate. Four people died in a tailoring shop and a boy lost his leg. The model logged it as an unguided event and nobody cleared the file, because nobody was checking."
+
+"That was an accident."
+
+"It was a rule," Sucharita said. "It's the same rule. You can't make the machine stop using its rules by breaking the thing that holds the rules. It only changes which building gets the last known coordinate."
+
+Tarak's jaw tightened. "So you'd let them hit Lansdowne Lane."
+
+"I'd rather you didn't hit the tower at all, which is the only thing I've been trying to say since eight o'clock."
+
+"We don't have time for your arithmetic, Sucharita-di."
+
+"You have exactly the time it takes to do arithmetic," she said, and heard her own voice sharpen in a way she did not like, the voice she had used in the cartel's glass room when the junior analysts argued about the threshold. She made herself lower it. "Tarak. Please. Think about the rule. The aircraft don't need the tower to find a target. They need it to confirm it. Confirmation comes from the handshake. The handshake comes from the cellular ghost. If we break the ghost, the handshake fails, and the machine will fall back on its last known coordinate. We don't know what that coordinate is. We can find out. And if we find it, we can put people in it before the bomb arrives."
+
+"How many people?"
+
+"Enough."
+
+"That's not a number."
+
+"No," said Gourmohan, from the far end of the table. "It's a name."
+
+They all turned to him. He had not raised his voice. He was still sitting with his hands folded, and his face in the lamplight looked older than it had at the roof, and younger, the way a face does when it has decided something it will have to carry for a long time.
+
+"Rekha Mondal," he said. "Her mother. Her son. The woman who sells dried fish and sang the second verse tonight with her back to the parapet." He looked at Tarak. "Her name is on a list because a machine decided her laugh was a voice it had been told to clear. We don't blow up a tower to change what the machine decided. We walk into the block and we tell her, and then we tell the people on her floor, and then we take her son down the stairs before the aircraft come."
+
+"And if she doesn't believe you?"
+
+"Then we carry her."
+
+"And if the aircraft come early?"
+
+"Then the jammers will have to hold for an hour longer than they were built for," Sucharita said. "Which means I need to be on the roof of the Lansdowne block in twenty minutes, with three units and a battery bank, and nobody in this room is going to tell me it's impossible."
+
+Malati stood. She had been silent through most of the argument, her hands flat on the door-table, her eyes moving from face to face the way a person's do when they are counting who is still on their side.
+
+"The mesh nodes can carry the warning," she said. "A text in the old format. No signature. It goes out to every household on Lansdowne Lane in the next ten minutes. I'll send it myself. They'll read it on paper if they can't read it on a phone, because the phones will be dead by the time the jammers are up."
+
+"Will they believe it?" Dipak asked. "A text from nobody?"
+
+"They'll believe it if it's true," said Malati. "And if they don't, they'll come down the stairs because the thing they're scared of is always the thing they know."
+
+Ashoke, the former radio announcer, cleared his throat for the first time. "There's a problem with the water tanks on Lansdowne," he said. "The municipal lines feed the rooftops. The Ghar-Dhundho model tracks cellular signal, but the residents' domestic electrical load is recorded in the building's pump logs, and the pump logs are on the same network. If we jam the roof, the pumps go silent, and the silence shows on the grid. The model will ask why a building's pumps stopped at night."
+
+"Then we keep the pumps running," Sucharita said. "Dipak, can you bypass the pump cabinet on the Lansdowne block without tripping the meter?"
+
+Dipak thought about it with the grave, slightly unhappy face of a man who had spent twenty years inside other people's electrical systems. "The cabinet's in the stairwell, behind the meter. I'd need a rubber mat and a torch. Ten minutes if the lock's the old kind."
+
+"It's the old kind."
+
+"Then ten minutes."
+
+Tarak got up, pushing his chair back hard enough to scrape the tile. He stood at the window with his back to the room and looked out at the courtyard. For a long time he did not speak. When he did, his voice was quieter than they had heard it before.
+
+"You know what they'll do," he said, not turning. "If we don't hit something. The men will go to the Rashbehari tower themselves, tonight, with whatever they have. They won't wait for your arithmetic, Sucharita. They'll do it because the last time they waited, a roof full of people sang, and then the roof was empty."
+
+"I know," Sucharita said.
+
+"And you'll let them."
+
+"No," Gourmohan said. "I'll go to the tower myself."
+
+Tarak turned around.
+
+"I'll go to the Rashbehari tower," Gourmohan said, "in the grey coat, with my face in the open, and I'll stand under the transmitter and read out the last ten SR numbers that were cleared this week, and I'll keep reading until the aircraft have to choose between the tower and the list. Nobody else will go near it. You'll tell the men that the man who wrote the speech is the one standing under the tower, and that he asked them to stay in the lanes and sing."
+
+"That will get you killed in four minutes," Tarak said.
+
+"The machine has been trying for eight months," Gourmohan said. "It's been slow. Let's see if it can be fast."
+
+No one in the room answered him. Sucharita looked down at the sheet of paper with the three pencilled columns and saw that she had written, at the very bottom, in her small slanted hand, the words *Lansdowne Lane — 4:1 — Rekha, Pinku, Ma (71)*, and beside them, without remembering doing it, the number 4.3. She had written the number in the same column as the others, as if it were a row of ordinary data.
+
+She drew a line through it. Then she looked at Gourmohan across the table.
+
+"You'll go to Lansdowne first," she said.
+
+"I'll go to Lansdowne first."
+
+"And the tower?"
+
+"The tower can wait for twenty minutes," said Gourmohan Roy. "Everything the machine has ever done has waited for us. Let it wait a little."
+
+---
+
+CHAPTER 7.
+
+The second tiffin box had gone cold on the table, and the lamp in the kitchen had been turned low so that the light fell across the tiles in a soft brown square and did not reach the corners. Apoorba sat with his shirt off and his back to the wall, the green book open in front of him at the title page. The Director-General's foreword ran in its neat type down the first sheet, unhurried, unembarrassed. *Hesitation is the last luxury.*
+
+He had not eaten the rice. He had eaten nothing since the morning. But he had opened the box, as he had known he would, and had found beneath the waxed paper the square of exercise-book paper folded twice, and had read it at the kitchen table with his hands flat on either side of it. *12 × 14 = 168.* And beneath that, in the same round, careful hand: *Tuli, look. You got 158. The mistake is always in the tens. It's always in the same place. Don't be sad about it. Just write it again.*
+
+He had read it twice. Then he had got up, found the Director-General's green book on the shelf by the window where he kept the day's files in their folders, and laid the page inside the front cover, under the foreword, where the paper fitted exactly into the groove between the endpaper and the board.
+
+Now he sat with the book open and did not read the foreword again. He read the page.
+
+Mitali had gone to bed at ten. She had not asked. She had put her hand briefly on his shoulder as she passed the kitchen door, the hand cool and dry from the dishwater, and had said only, *the dal's in the steel pot, eat something*, and he had said *yes*, and neither of them had moved for a moment before she went down the passage to the bedroom where Tuli was already asleep under the ceiling fan.
+
+The house was quiet in the way houses are quiet when two people in them are pretending to sleep. He could hear the fan turning, the small slow click at the top of each rotation. He could hear a dog on the lane and a truck on the main road. He could hear the tank behind the old police lines, though he knew it was four streets away. The river wind did not come this far. He knew it anyway.
+
+He opened his laptop.
+
+The directorate's terminal in the wing had a hundred safeguards, and every one of them had been built to watch the operator, not the file. The laptop he kept at home was a worse machine, issued for the compliance reviews, and its access logs were checked only when someone in compliance had reason to suspect the operator of something. Nobody suspected him of anything. He had confirmed everything asked of him for nineteen months. His review interval was twenty-point-one seconds. He was, in the language of the file, a reliable component.
+
+He logged in. The screen filled with the queue. File 3,847 was still there, marked *Confirmed*, with the window beside it.
+
+*Strike — Residential — Night Window — Revised 22:40.*
+
+Someone had changed it that afternoon. The revision note read, in the cold font of the directorate's system: *Aircraft availability — western squadron — window matched to training cycle. Authorized: S.K. (Office of the DG).*
+
+Apoorba read the authorization line three times. Then he scrolled down to the household occupancy field, which the system generated by pulling pre-war census data for the building and reconciling it with the cellular ghosts still registered to the candidate's account. The census listed two households on the third floor of the block on Lansdowne Lane: the Mondal family, of four persons, and a second family of three. The reconciliation had dropped the second household, because its phones were unregistered. It had kept the first household at one person, because the other three members had no phones at all.
+
+The field read: *Occupants (est.): 1. Expected collateral (est.): 0.6.*
+
+He did not know why he laughed. It was not a loud laugh. It came out of him in a short dry breath, and he put his hand over his mouth to stop the sound going up the passage, and he sat with his hand there, looking at the number on the screen.
+
+Point six. The machine did not believe a woman and her mother and her son were living in the room where the machine had heard her laugh. The machine believed in a ghost with a phone and a face that was almost, not quite, the face of a man.
+
+He had known the building was on Lansdowne Lane. He had known the floor. He had not known the names until now, because the file had given him a designation, and a designation was not a person, and he had been careful, for nineteen months, never to look up the name behind the designation. The name was a thing one could be asked about later.
+
+He looked up the name now.
+
+*Mondal, Rekha. Born Tollygunge. Dried fish trader, Bhowanipore market (licence lapsed 2043). No criminal record. One prior interrogation, 2042, released without charge.* And beneath it a single photograph, taken in the interrogation room in Bally in the first week of a different man's arrest, of a woman with a bruise along the left cheekbone and a scar across her knuckles, looking straight at the lens with an expression he did not have a word for in any of the protocol's languages.
+
+The face match was 0.41. The advisory note said *low confidence*. He had cleared the file on the basis of a laugh and a secondary match, and the photograph beneath the match was of a woman who had sung, at some point in her life, loudly enough to be heard across a lane.
+
+He closed the laptop.
+
+In the other room Tuli said something in her sleep. It was not a word. It was a sound a child makes when she is dreaming about a thing she has to do the next day and is afraid she will get wrong. Apoorba stood, went to the passage, and stood in the doorway of his daughter's room. The night-light was a small plastic moon with a crack down one side. Under its glow she lay on her back with her arms above her head and her mouth open, the way she had slept since she was two.
+
+He did not go in. He stood where the light from the passage fell across the floor, and he listened to her breathe, and he thought about the page inside the green book, and the number *168*, and the word *tens*.
+
+At 22:14 he went back to the kitchen, sat down, and took out his phone. He had a number for the compliance unit. It was a number he had called twice, in the review weeks, and had been told both times to call again if he had concerns about the procedure. He did not call it. He opened the message field and typed, very slowly, with one finger, the designation SR-7. Then he typed *Lansdowne Lane*. Then he stopped.
+
+He thought about the review. Four days. The man from compliance with his soft voice asking whether Apoorba had felt pressure to clear files quickly. Whether he had been aware of the revised window. Whether he understood the directorate's obligation to protect the integrity of the target chain. Whether his personal circumstances, which the directorate was aware of, had affected his judgment.
+
+He thought about Mitali asking, once, what the compliance men had wanted, and his saying *the usual*, and her not asking again.
+
+He deleted the designation. He deleted the street. He sat with the empty field on the screen and the phone in his hand, and the fan turning in the bedroom, and the dal going cold in the steel pot on the stove.
+
+Then he did something he had not done in nineteen months. He opened the directorate's public information page, the one the wing kept for staff and their families, with its blue banner and its photograph of the river at dawn, and he looked for the emergency bulletin section, which he had never read because it was always empty. It was not empty tonight. There was one line under a heading that said *Civil Advisory*.
+
+*Residents of Lansdowne Lane and surrounding blocks are reminded that unregistered gatherings and unmonitored domestic premises are subject to heightened scrutiny during the current operational window. Please cooperate fully with local authorities.*
+
+It had been posted at 21:30. Nine people had viewed it, according to the counter. He knew, without checking, that none of them had been on the third floor of the block on Lansdowne Lane, and that the counter would never tell him whether the advisory had reached anyone who needed it.
+
+He sat for a long time. Then he wrote, on the back of a directorate form he had brought home to fill in and had never filled in, four words in the round careful script he had learned from watching his wife at the stove: *Lansdowne. Third floor. Go down.*
+
+He folded the paper twice. He put it in the pocket of his trousers, where it would be at the next morning's metro gate. He did not know what he would do with it there. He only knew that it was not a confirmation, and that it could not be entered into any field in the directorate's system, and that a man who had written it had now done something the protocol had no name for.
+
+He went back to the bedroom. Mitali was awake. She turned over in the dark as he came in, and looked at him, and did not say anything. He lay down beside her in his trousers and his undershirt, and after a moment she moved her hand across the sheet until it found his, the way she used to in the first year when the nights were cool and the fan was not yet installed.
+
+"Did you eat?" she whispered.
+
+"No."
+
+"Eat in the morning."
+
+"Yes."
+
+She was quiet. Then she said, very low, so that he almost did not hear it over the fan: "Whatever it is. You don't have to tell me."
+
+He did not answer. He lay with her hand in his and looked at the ceiling, where the fan's shadow turned slowly across the plaster, and he listened to the click at the top of each rotation, and at 22:31 he heard, very faintly, far off over the city, the first sound of an aircraft.
+
+---
+
+CHAPTER 8.
+
+The roof of the Lansdowne Lane block was the only place in the eastern wards where the sky still looked the way it had looked before the directorate. Sucharita stood on it at 22:08 with three grey units in a canvas bag over her shoulder and the wind coming off the Tolly Nullah in long cool pulls, and she thought, for no reason she could defend, that it smelled of the monsoon. It was October. The monsoon had been over for six weeks. The smell was the nullah itself, the black silt and the rotting water lilies, and under it the thin green sweetness of wet grass on the embankment. She breathed it in until her chest hurt.
+
+The water tank stood at the north corner on four iron legs, its steel sides scabbed with rust, the words *Municipal Water — Do Not Drink* stencilled above a tap that had been wired shut. Behind it, where the brick parapet met the tank's base, a copper riser ran down the back wall toward the stairwell. The copper was dull and thick as a child's arm. It was, she thought, the best antenna in the lane, precisely because nobody had ever thought of it as one.
+
+She knelt and set the first unit against the riser's base. Her fingers were cold and clumsy, and she made herself go slowly, the way she had taught herself in the cellar in Dhakuria: the battery seated, the seal checked, the green diode confirmed. The second unit went at the far corner of the tank room, where the tar was cracked and a little dry grass had come up through the join.
+
+The third she held in her lap for a long moment before she set it down.
+
+It was the unit she had built last. It was slightly heavier than the others, because she had fitted a larger cell, and it carried a fault she had not fully fixed, a faint intermittent hum that appeared in the ambient spectrum for less than a second every twelve minutes. She had told herself it was negligible. She had told Gourmohan it was negligible. She had written it into the test log with the initials she used for memos. She pressed the unit into the tar with the heel of her hand, and it hummed, very faintly, and then did not.
+
+"Didi."
+
+Dipak stood in the stairwell doorway with a rubber mat rolled under one arm and a torch between his teeth. He took the torch out to speak.
+
+"Pump cabinet's live," he said. "The bypass is on. It'll hold on the battery for three hours if nobody opens the meter door. But the block has a second cabinet on the top floor, for the water-heater. It's not on my wiring. If that one goes quiet they'll see it on the grid."
+
+"How long?"
+
+"Ten minutes on the top floor."
+
+"You have eight."
+
+He nodded and went back down without argument. She heard his boots on the stone steps, one flight, two, the steady rhythm of a man who had spent his life listening to buildings and knew exactly how fast he could go in the dark.
+
+She stayed on the roof. The units needed to settle, and the riser had to be sighted along the parapet, and she needed to be the one who checked the seals, because she could not trust anyone else's hands to tell a seal that was tight from one that only looked tight. She stood with her back to the tank and looked east.
+
+The aircraft were already in the sky. She could see their lights moving low over the Rashbehari corridor, three red points and a white one, sliding through the dark like beads on a thread that someone was slowly pulling. They made no sound yet. The sound would come when they were close enough for the sensors to sweep the block, and she found that she was waiting for it with a tightness in the muscles of her jaw that felt almost like a fever.
+
+Below her the lane was quiet. The lamps at the Chetla end had gone dim. In the courtyard of the house opposite a woman was calling a child in for supper, *Tuku, Tuku*, the name rising and falling until the child answered from somewhere inside and the calling stopped. On the third floor of the Lansdowne block, behind the pale green door, the windows were dark.
+
+She took the folded sheet from her jacket. The nineteen names from Ballygunge had gone soft along their creases. She did not need to unfold it. She had written the names herself, in the dentist's room, and had initialled a number beside them, and had told herself that the initials meant she had accepted responsibility for the arithmetic.
+
+It had not occurred to her, in the dentist's room, that a person could be responsible for a number and still not know its name.
+
+She thought of Rathin Bose humming Hemanta under his breath. She thought of the four seconds. How easy it had been to write a sentence the machine could read in the same four seconds. How easy it was now to write a set of coordinates on the back of a telemetry sheet and feel that she had done something decent by writing them at all.
+
+The second unit had begun to hum. She felt it through the soles of her shoes, a steady vibration in the tar, and saw its diode burning clean. The third unit's diode was still dark. She knelt beside it and put her ear to the casing and listened for the intermittent hum of the fault. It was not there. Perhaps the cell had seated after all. Perhaps the fault was a sound she had been listening for so long that she had begun to hear it in her own blood.
+
+She pressed the switch. The diode came on, steady and green.
+
+"Sixteen minutes," said Dipak, behind her. He had come up the last flight without her hearing, and stood in the stairwell door with the mat under his arm and sweat running into the burn scar on his forearm. "Heater cabinet's stiff, but it'll give. It's the new lock, not the old one, and the new one's worse."
+
+"Tell me when the top floor's done."
+
+"I'll tell you." He came out onto the roof and crouched beside the nearest unit, touching its casing with a single finger, a man checking a motor for heat. "Will it work?"
+
+"It'll blank the roof. Two hours, perhaps."
+
+"And then?"
+
+"And then it becomes someone else's problem," said Sucharita, and heard the bitterness in her own voice. She stood. Her knees ached from the cold tar. "Dipak. Did you know Subrata Ghosh? Saikat's father."
+
+He looked up sharply. "I knew him at the electricity board, years ago. He rewired the lane's lamps on his own time. He was a better engineer than anyone in the office." He hesitated. "They took him in the Ballygunge business. Three years ago. Nobody's seen him since."
+
+"Saikat thinks he's in the Bally camp."
+
+"Saikat thinks a lot of things," Dipak said quietly, and stood, and looked out at the east with his hand on the parapet.
+
+The aircraft were closer. The sound had started, a deep pressure that rose through the parapet and the tank and the soles of her shoes, until the lights were overhead and the sensor sweep struck the block with a flat white sheet of sound that made the water in the tank shiver against its steel walls.
+
+She did not move. She stood with her back to the riser and her hand on the folded sheet, and she watched the third-floor window of the Lansdowne block. It was dark. Then it was not dark. A small light had come on behind the green door, a torch or a lamp, moving quickly across the glass. Someone was carrying it toward the stairs.
+
+Sucharita unfolded the sheet.
+
+She did not know, afterward, why she did it. She had not read the names aloud in her life. She had written them, and calculated over them, and initialled beside them, and had never once heard them spoken in a human voice. Now she held the paper up to the white light of the sweep and read them, in the flat careful tone she had used in the seminar room at Jadavpur when she was explaining a distribution to students who did not want to hear that the mean was a lie.
+
+"Pal, Anjali. Eleven years. Ghosh, Tapan, father of two. Das, Lakshmi, sixty-two, who sold corn on the roof."
+
+Dipak had turned. He was looking at her as though she had begun to sing in a crematorium.
+
+"Dey, Bablu. Nine." Her voice caught on the number, and she held it steady. "Dey, Tuhina. Seven. Seven years old. Dey, Kanai. Thirty-one. Sheikh, Abdul, the tailor."
+
+The sweep passed over. The white light went off the roof. The units hummed. Below in the lane the sound of feet was rising, many feet, a crowd moving down the stairs in slippers and nightclothes with their children in their arms, and across the rooftops the sky was empty of everything but three red lights and a white one, turning slowly away.
+
+Sucharita read the rest. She read all nineteen. Her hand did not shake on the paper, though her voice did, once, on a child's name, and then steadied again. When she reached the bottom of the sheet she folded it along its old creases and put it back in her jacket, over her heart.
+
+"Didi," said Dipak, very quietly. "That was well done."
+
+"It wasn't done," said Sucharita. "It was said."
+
+Far off in the east a single white flash opened over the Rashbehari corridor, too distant to hear, and closed again.
+
+"Top floor's done," said Dipak after a moment, and his voice was rough. "The heater's dead on the grid. Nobody will ask why until morning."
+
+"Then go down," said Sucharita. "Go and find the boy."
+
+He went. She heard his boots on the stone, one flight, two, and then the stairwell swallowed the sound, and she was alone on the roof of the Lansdowne block with the three grey units humming at her feet and the lamps of the lane coming on, one by one, below.
+
+She looked down at the courtyard and the back lane, where a line of people was coming out of the block's doorway into the cold, carrying their children and their bundles and their sleeping grandmothers, moving toward the Chetla end in a slow dark river. She could not see faces. She could see the shapes of them, and the small pale lights of their torches, and she counted them without meaning to, the habit of a woman who had once stood in a glass room and been told that counts were the only thing the machine believed.
+
+She stopped at fifty. Then she made herself stop counting, and simply watched them go.
+
+* * *
+
+
+The Lansdowne Lane block was a plain brick building of four storeys with a pale green door and a stairwell that had once been painted yellow. Gourmohan came up the lane from the Chetla end at 22:26, in the grey coat, without the spectacles, with the lattice printed on nothing and his face fully visible to the cameras at the corner pole. He had decided, on the walk, that he would not hide. Hiding was a thing the machine could work with. A face in the open was a thing it had to decide about.
+
+Saikat walked beside him, two steps back, carrying a canvas bag over one shoulder with Dipak's torch and a rubber mat in it and the nine-hundred-gram battery pack that Sucharita had sent with a note that said *don't drop it, the cells are old*. The boy had insisted on coming. He had said the tower could wait, and the roof could wait, and that a clerk needed someone to carry his bag.
+
+"Are they going to let us in?" Saikat asked.
+
+"No."
+
+"Then how?"
+
+"The door is green. Lansdowne Lane is not a street where people open doors at night. But the stairwell has a window on the landing that faces the back lane, and the window has been broken since the summer. Dipak said so. The people on the third floor will have heard the glass."
+
+"And if they heard the glass and they shut the door?"
+
+"Then we'll stand outside it and sing."
+
+Saikat laughed, short and surprised, and then stopped laughing as the aircraft noise came over the rooftops from the east, low and heavy, a sound like a train that had forgotten its track.
+
+They reached the pale green door at 22:31. Gourmohan knocked twice, not loud, and then said through the wood, in the voice that carried without shouting: "Rekha Mondal. My name is Gourmohan Roy. I'm standing outside your door. You don't know me, and you have very little reason to believe me. The aircraft will be over this block in eleven minutes. Please open the door and bring your son down the stairs."
+
+Silence on the other side. Then the sound of a chain sliding, and a bolt, and the door opened three inches. A woman's face, in the crack of light from the landing. The bruise along the cheekbone had faded to yellow. The scar on the knuckles was clear in the light.
+
+"You're the clerk," Rekha said.
+
+"I'm the clerk," said Gourmohan.
+
+"Who asked the roof to sing."
+
+"Yes."
+
+"And you think I should trust you."
+
+"I think you should trust your son," he said. "He's six. He's standing behind you, isn't he? He's holding the back of your sari so he can see past your hip. I can see his fingers."
+
+Her face did not change, but her hand on the door tightened. Behind her, in the dark of the flat, a small voice said, "Ma, who's that?"
+
+"Go back to bed, Pinku."
+
+"It's the man from the roof," said the voice, delighted, through the crack. "Ma, the man sang the one about the river."
+
+Rekha closed her eyes for a second. Then she opened them, and looked at Gourmohan in the stairwell light with the expression of a woman who has been waiting for a long time to be proved wrong.
+
+"What do you want," she said.
+
+"Your mother," said Gourmohan. "Where is she?"
+
+"Asleep. She doesn't walk on the stairs."
+
+"Then we'll carry her. Saikat—"
+
+"Dada, the aircraft." Saikat was at the broken window on the landing, his face pressed against the cold glass. "They're on the east side. Low."
+
+Gourmohan turned. Through the window the back lane lay in darkness, the rooftops of the Chetla quarter stretched out grey and silent under a sky the colour of wet slate. Above them, moving toward the Rashbehari corridor, three shapes slid across the stars. He could not see their markings. He could see the way the light from the lamps on the main road bent and shivered in the air where they passed, the heat of their engines turning the cool October night to a faint, moving haze.
+
+"How long?" he asked.
+
+"Five minutes. Maybe less." Saikat's voice had gone very flat. "They're not going to the tower. They're going straight over. They've got the coordinate."
+
+Rekha had come out onto the landing behind them, pulling the green door almost closed. She saw the window, and the shapes, and her son's face in the glow of the flat's night-light as he peered out from behind her skirt, and something in her posture broke. Not into fear. Into motion.
+
+"Pinku, boots," she said, sharp. "Now. Nanny!" She threw the door open and ran back into the dark of the flat, and Gourmohan heard the sound of a bed frame scraping, an old woman's voice saying something sharp and sleepy, and then Rekha's voice again, rising, clear, the way a woman's voice rises when she has decided that she will not argue with the thing that is coming.
+
+He went in after her.
+
+The flat was two rooms and a kitchen, with a single window onto the air shaft and a shrine on the wall with a small brass lamp that someone had left burning. Pinku was sitting on the floor pulling on a pair of red rubber sandals with fingers that would not work properly. Rekha was lifting her mother from the bed, a light, shrunken body in a white sari, the old woman's arms round her daughter's neck and her eyes open and furious.
+
+"I don't walk on stairs," said the old woman, in the clear high voice of someone who had been very handsome. "I've told you that for two years."
+
+"You'll walk for me, Ma," Rekha said. "Hold the rail."
+
+Gourmohan took the old woman's other arm, and felt the bones under the cloth, and felt how little she weighed. She looked up at him with an unexpected sharpness.
+
+"You're the clerk," she said.
+
+"Everyone says so."
+
+"Shibnath's boy. Anandamoyi's." She studied his face in the lamplight. "You look like your father used to look when he was about to say something unforgivable at a wedding."
+
+"I didn't know my father."
+
+"Nobody did," said the old woman, and then they were in the passage, and Saikat was already at the stairwell door with the canvas bag open, shoving the rubber mat under the pump cabinet's lock with his foot, and the door of the flat behind them had come off its hinge in Rekha's hand as she dragged it shut.
+
+They were halfway down the first flight when the aircraft came over the Lansdowne rooftops.
+
+The sound was not like the sound of the thing Sucharita had described in the kitchen. She had described it as a pressure, a dull hammer in the chest. It was more than that. It came down through the stairwell walls and the concrete floor and the soles of Gourmohan's feet, and it made the broken window on the landing shudder in its frame, and it made the old woman on his arm gasp and clutch at his sleeve and say, in a small clear voice, "Oh. There it is."
+
+Saikat was on the landing with the battery pack in both arms, his face white in the stairwell dark. Dipak's torch was taped to the rail. Its beam fell across the pump cabinet, where a second pale wire had been spliced into the old copper line behind the meter and a green diode glowed steady.
+
+"Dipak's bypass is holding," Saikat said. "Two minutes. Three. The pumps will keep running on the battery till the jammers are up on the roof. Didi's already up there. She set the units herself."
+
+"And the aircraft?"
+
+"Still coming."
+
+Downstairs, a door banged open. Voices. A man shouting something about the lights. A woman's voice, high and frightened, calling the name of a child. Gourmohan heard the sound of feet on the lower flights, dozens of them, people coming out of their flats in slippers and nightclothes with their children under their arms, moving down toward the lane because a text on paper had said *go down* and the thing they were most afraid of had finally arrived.
+
+Malati's mesh nodes had worked. He had not been sure they would.
+
+"Keep going," he said to Rekha, who had stopped on the stairs with her hand on the wall. "Pinku, hold your mother's hand. Saikat, the bag."
+
+They went down. The stairwell was full of people now, pressing past them in the dark, a sea of shoulders and whispering and the thin sharp cries of infants. Someone took the old woman's other arm. Someone else took Pinku by the shoulder and lifted him over a step. The air was thick with the smell of kerosene and sleep and the cold ash of a stove that had gone out in a hurry.
+
+On the second landing, a boy of about eight was sitting alone against the wall with his knees drawn up and his face in his hands. He was not crying. He was counting under his breath, in English, the way children are taught to count in the schools that the directorate had not yet closed, and his voice had the strained, rhythmic evenness of a child who has been counting for some time and has not yet been told that it is safe to stop.
+
+Gourmohan stopped beside him. He did not touch him.
+
+"Where's your family?" he asked.
+
+"Upstairs," said the boy, not looking up. "My mother said to wait for the others. Nine. Ten. Eleven. My grandfather's still up there. He doesn't—he said he'd come down when the planes went over. He's old. He's always saying he'll come down."
+
+"Do you know which flat?"
+
+"Third. Behind the green door. Nobody's answered since the window broke." The boy's voice wavered for the first time. "Twelve. Thirteen."
+
+The aircraft were over the block. The sound had changed. It had gone from a hammer to something smaller, sharper, the high clean whine of a sensor sweep, and Gourmohan knew, without any manual, what the aircraft were doing up there. They were looking down at the building, reading the cellular ghosts and the pump logs and the census of a family who had not been there for twenty minutes, and they were waiting for the handshake to confirm a number.
+
+Four point one. Point six. The machine would say whatever it had been told to say.
+
+"Stay here," Gourmohan told the boy. "Count to a hundred. Then stand up and walk down slowly. Don't run. Don't look up."
+
+"Why?"
+
+"Because the sky is looking for people who are running."
+
+The boy looked at him for the first time, a pale, dirty face under a torn school cap. "Are you going up?"
+
+"Yes."
+
+"Why?"
+
+Gourmohan did not answer. He was already on the stairs, climbing against the flow of the crowd, his shoulder knocking a child's bundle, his hand finding the rail. Rekha shouted something behind him. He did not turn. He was going up for the grandfather, and for the boy's mother, who had gone to the second floor, and for the eleven and the twelve and the thirteen the boy had been counting. He was going up, because the machine had decided that a man in a grey coat who ran toward the sky was a threat, and because somewhere in the back of his mind a voice was saying, quite calmly, that a man who had written a speech about names could not stop at a number and walk away.
+
+Third floor. Green door. Nobody had answered.
+
+He reached the landing. The door was open, its glass gone, the chain hanging loose. Inside, the flat was dark except for a thin blue glow from a phone face-up on the kitchen floor. A bed in the far room. An old man on the bed, eyes closed, a white vest, a small pale hand clutching a rosary. Beside him, on the floor, a woman in a cotton housecoat was trying to lift the old man's legs, her face streaming, saying *Baba, Baba, get up, the planes*.
+
+She looked up when Gourmohan came in. She had the boy's eyes. She did not scream. She just said, very quietly, "He won't wake up."
+
+"He's awake," Gourmohan said. "He's just deciding whether to trust you."
+
+He knelt, took the old man's shoulders, and lifted. The body was light and loose. The eyes opened. They were clouded, but they focused on Gourmohan's face with a flicker of recognition that was almost amusement.
+
+"You're the clerk," said the old man.
+
+"Everyone says so," said Gourmohan.
+
+Overhead the whine of the sensors rose to a note that made the windows buzz in their frames, and then, from somewhere to the north, came a sound that was unlike anything Gourmohan had heard in eight months of hiding. It was a high, flat, clean crack, as though the sky had been torn along a seam. Then silence. Then, very faintly, a second crack.
+
+On the roof of the Lansdowne block, three jammer units that Sucharita had built in a cellar in Dhakuria and that Sucharita had set on the tar herself were blanking the cellular ghosts of an empty third floor. The machine saw a silence where a woman's laugh had been. It asked its operators whether the silence was a fault. The operators, in the glass room at the top of the building on Strand Road, had eleven other files on their screens and twenty seconds to decide.
+
+Gourmohan did not know that yet. He would learn it later, from Sucharita, in the kitchen, with the lamp turned down. For now he stood in the third-floor flat with an old man's weight on his shoulder and a woman's hand gripping his sleeve, and he listened to the sensor whine go up and up and then, abruptly, break off, like a song cut in the middle of a line.
+
+"Walk," he said to the woman. "Hold him. The stairs are full, but they're moving."
+
+They walked. The old man's feet found the steps one at a time. Gourmohan went first, backward, one hand on the rail and one under the old man's arm, while the woman came behind with her son's name in her mouth. At the second landing the boy with the counting was on his feet. He had reached a hundred. He was standing with his back to the wall, his face white, and when he saw his mother and his grandfather coming down the stairs he made a sound that was not a word, and ran.
+
+He did not look up. Gourmohan saw him not look up. The boy ran straight into his mother's arms with his face pressed against her housecoat, and the old man's rosary swung on Gourmohan's wrist, and below them the lane was full of people with their faces turned toward the Chetla end, toward the sky, which was silent now and very clear and full of the first hard stars of the winter.
+
+At the bottom of the stairs, Rekha Mondal was waiting in the lane with her son's hand in hers and her mother-in-law's white sari over her shoulder. She looked at Gourmohan coming down the last flight with the old man on his arm, and her face did something he had not seen on it before. It was not gratitude. It was closer to a question she had decided not to ask yet.
+
+"Where now?" she said.
+
+"Lane four. There's a girl there with a burn across her arm."
+
+"Then go." She stepped back to let him pass. "And take the boy's name with you. Tell them his name. Tell them the old man came down."
+
+---
+
+CHAPTER 9.
+
+The window of the wing's fourth floor had never been opened. Apoorba had sat beside it for nineteen months and had watched the river through the glass, the stripe of grey-green water between the buildings, the flash of brown when the light struck it.
+
+At 23:01 he was not looking at the river. He was looking at the screen, at file 3,847, which had been marked *Strike Package — In Execution — Window 22:40 — Revised*, and which now carried a second line that had not been there at nine that morning, and a third beneath it, and then a fourth, as the classifier, having lost its handshake on Lansdowne Lane and found, after eleven seconds of confusion, a higher-confidence signal three kilometres away, began to reassign the strike.
+
+*Ghost-source relocated. Confidence 0.98. Cellular handshake: PRIMARY. Location: Lane 4, Chetla (Ghosh residence). Identity: ROY, GOURMOHAN. Threat index: 100.*
+
+The number was not a percentage. It was not a probability or a confidence band or a feature vector. It was a sum, put together from nineteen months of cellular correlates and facial matches and co-presence in messaging groups and a tailor's son's photograph taken on a train platform, and it had reached its ceiling in the space of one minute, because the machine had decided, at last, that the man it had been looking for for eight months was not a ghost at all. He was standing in the open. He was reading names.
+
+The other number on the screen was smaller. It was in the field marked *Estimated collateral (dynamic)*, and it had changed from 0.6 to 4.3 in the time it took Apoorba to draw a single breath. Then it went higher. Then it stopped being a number at all and became a row of zeros, because the system could not compute the expected deaths of people it had no record of, in a block that had been empty for twenty minutes, and it had been designed, at its root, to treat that ignorance as a reason to proceed.
+
+Apoorba's hand was on the desk beside the green book. He looked at it. It was steady.
+
+The compliance unit's chat window opened in the corner of his screen with a soft chime. *Operator APC-4417, verification rate and review interval within expected parameters. Please confirm current assignment.* The cursor blinked beneath the words, patient, unhurried.
+
+He did not confirm.
+
+He did not decline, either. He did not press any key at all. He sat very still and watched the number beside the designation ROY, GOURMOHAN, and he understood, for the first time in nineteen months, the precise and terrible function of the field he had been trained to ignore. The confirmation was not a judgment. It was a transfer. The machine had sensed the hesitation in the chain, and it was routing around him, the way water finds the lowest part of a field.
+
+*Where is the human in this loop? At the point of confirmation.*
+
+He had not been the point of confirmation. He had been a clerk, reading a voice. He had been a man at a desk with a green book and a page of his daughter's sums inside it, clearing a file because the machine had told him a laugh was male, and the laugh had been a woman's, and the woman had been carried down her stairs by a man with a rosary on his wrist, and the rest had been decided by a system that had never needed him in the first place.
+
+The clock in the corner of the screen read 23:02:17. He thought of the river. He thought of Shibnath in the tank, floating on his back, saying that the water did not ask whether you were worth carrying.
+
+At 23:03 the screen flashed once, green, the colour of paddy seen from a train. *Strike package reassigned. Aircraft: 2. Munition: unguided, heavy. Window: immediate.*
+
+He stood. His chair rolled back against the cabinet behind him with a sound like a dropped stone. Across the room the coffee machine wheezed. A woman laughed at something on her screen. The man in the next row looked up and said, "Chatterji, you all right?"
+
+Apoorba did not answer. He picked up the green book from the desk. He opened it to the front cover, where the page of exercise-book paper lay folded in the groove under the foreword, and he took the page out, very carefully, and held it in his hand. *12 × 14 = 168.* The mistake was always in the tens.
+
+He put the page into the breast pocket of his shirt, over his heart, and left the book open on the desk.
+
+He walked out of the room. He passed the eleven empty screw holes in the stone of the entrance, and the brass plaque that had been removed in the directorate's first year, and he went down the stairs of the building on Strand Road two steps at a time, past the security desk, past the guard who said *Sir, your badge*, and out into the cold air of the river, where the wind came up off the water and the sky to the south was faintly, impossibly lit, the colour of a fire that had not yet decided whether to spread.
+
+He did not hear the sound of the bomb. It was too far away, and it was not yet a sound. It was a pressure, a change in the air, the sudden pale shimmer of the river's surface along the Strand, as though the water itself had been struck.
+
+At 23:04 a dumb bomb fell from the western sky onto a lane in Chetla, and the sound reached the river a breath late, as a pressure in the air and a shiver along the water.
+
+---
+
+The lane-four house had been built in the years when the city still believed a house could be a home. It had two storeys of brick and a flat roof with a tank on iron legs, and its ground floor had been a rice-seller's shop, and its upper room had been, for thirty years, the place where a music teacher named Mrs. Basu had taught the children of the lane to sing Tagore on a harmonium with a split bellows, and where a retired police sub-inspector had taught the same children to write their names on a slate.
+
+The strike did not hit the roof. It did not need to. It came down on the lane from the north, through the gap where the house next door had been emptied in the summer, and it took the lane-four house the way a hand takes a loaf, pressing from above until the brick gave and the joists folded and the tank on its iron legs went over, pouring a thousand litres of rainwater down through the rubble in a silver shower that caught the light from the lamps at the Chetla end and turned it, for a second, to gold.
+
+Gourmohan was on the lane's edge when it came. He had come down from the upper room at 23:01, with the routing sent and the confirmation light steady, and had left the girl with Mrs. Basu and Shibnath, who would carry her down the stairs when the Sealdah ambulance turned in at the Chetla end. He had walked out to the edge of the lane with Saikat to wait for it. The grandson had come running after them down the stairs of the Lansdowne block with his mother's cry still in his ears, and had not stopped until he reached the Chetla end, and when he saw the lane-four house he stood still and looked up at its windows, as if he were counting them.
+
+The girl was in the upper room. The legacy terminal was in the upper room. Gourmohan had gone up at 22:50, because the girl's arm had been blistering through its wrapping, and Shibnath's old police radio on the table under the window was the only device in the lane still tied to the district ambulance network, a relic from the years before the directorate had moved the ambulances onto the cellular grid. It ran on a frequency the machine had stopped listening to a decade ago. It had taken him four minutes to find the right channel, and two more to send the routing, and in those six minutes a man in a glass room on Strand Road had not been looking at Lansdowne Lane. He had been looking at a lane in Chetla, where a boy's grandfather was still upstairs and a woman was humming a song to a sick child.
+
+The routing had gone out at 22:56. Gourmohan had watched the confirmation light blink on the radio, green, steady, and had felt, for a single moment, the relief of a man who had done the thing he was for.
+
+He had not known the radio was a beacon. He had not known the legacy ambulance channel had been left open on the directorate's network so that the directorate could track its own vehicles. He had not known that a transmission from a relic on a fourth floor in Lane Four, in the old district code, would be read by the machine as an emergency signal from a registered suspect at a known residential address, and that the machine would parse the lane's cellular silence and the girl's blistering arm and the old woman's fever as a single correlate, and that the single correlate would climb the scale to a number it had already been assigned.
+
+He had known Shibnath would be downstairs. He had not known Mrs. Basu had come up from the lane's back room, at 22:58, to bring the girl a cup of warm milk, and that she had sat down on the bed beside her with her grey bun coming undone and begun, very quietly, under her breath, to hum the second verse.
+
+The strike came at 23:04.
+
+Gourmohan did not see it land. He was thirty metres down the lane, on the edge of the crowd that had gathered at the Chetla end, and what he felt first was the air. It moved past him in a single flat wall, hot and dense and smelling of brick dust and something sweeter underneath, something like marigolds crushed in a wet hand. He was lifted off his feet. He landed on his back on the tar with Saikat's weight across his legs and the grandson's small body in his arms, and above him the sky went white, and then black, and then full of falling things.
+
+He lay still for a while. He did not know how long.
+
+When he could hear again, the lane was screaming. Not all of it. Some of it was silent in the way that a place is silent when the people in it have stopped being able to make sound. He sat up. The grandson was in his lap, coughing dust, his eyes open and fixed on the sky. Saikat was crawling on his hands and knees across the tar toward the lane-four house, calling a name.
+
+The house was not there.
+
+The place where it had been was a heap of brick and timber and broken tile, pale in the light of the lamps, with the iron legs of the tank sticking up from the wreckage like the ribs of a dead animal. Water ran from the heap in a silver stream, down the lane, toward the drain, carrying with it bits of paper and cloth and a child's slate with the letters still chalked on it. The rice-seller's sign hung by one nail from a broken shutter. Somewhere under the brick, a radio was still playing. It was playing the second verse of a song about a river.
+
+Gourmohan put the grandson down on the tar and walked toward the heap.
+
+He did not run. He had learned, in eight months of a life lived in the open, that running was what the machine expected. He walked, slowly, the way a clerk walks to his office when he has been told he is needed, and he went up the broken steps where the front door had been, and he began, with his bare hands, to lift the bricks.
+
+Saikat joined him. Then the men in the dark cloth came up the lane from the Chetla end, their scarves gone, their faces grey with dust, and they knelt down beside the heap and began to dig without speaking. Then the people from the Chetla end came, the ones who had been on the stairs of the Lansdowne block with their children under their arms, and they came with their hands out, and their voices low, and they lifted the bricks away one at a time and passed them back down the lane in a line that did not stop.
+
+They found the girl first. She was under a beam at the top of the stairs, unhurt except for the blistered arm, which had been wrapped in cotton that was now black with dust. She was breathing. She opened her eyes when Gourmohan lifted her, and she looked at him with the flat, uncomprehending calm of a child who has been asleep through a thing too big to be real.
+
+"The milk," she said. "Mashi said it would be hot."
+
+He carried her down the steps. He passed her to a woman from the line. He went back up.
+
+They found Mrs. Basu at half past eleven, in the upper room, under the harmonium. The instrument had fallen on her with its lacquered brown body split down the middle and its bellows torn open, and the cloth of her white sari had caught on one of its keys so that her hand was still resting on the keys in the position of a woman playing the first note of a song. Her grey bun had come completely undone. Her face was turned toward the window, where the light from the lamps was still falling, and her eyes were closed, and her lips, faintly, were still shaped around the start of a word.
+
+Gourmohan did not lift her at once. He knelt beside her in the rubble and took her hand from the keys, very gently, and held it, and felt that it was still warm.
+
+"Mrs. Basu," he said.
+
+Saikat, behind him, made a sound like a boy being struck.
+
+They found Shibnath at the foot of the stairs, where the ground floor had been, under the rice-seller's shutter. He had come down from the roof when he heard the radio. He had been trying to reach the grandson, and then the girl, and then, as the shutter fell, he had turned back toward the stairs, the way a man does when he knows exactly which boy in the lane will be the last one to come home. His white hair was dusted grey. His eyes were open. His face was calm, and a little amused, the way it had been on the roof when he told Gourmohan to sit down before someone shot him for standing.
+
+Gourmohan knelt in the water running down the lane, and took the old man's shoulders, and lifted.
+
+The body was light and loose, and when Gourmohan laid it on the tar the eyes did not close.
+
+"Shibnath-da," he said. "Get up. The machine is looking."
+
+The old man did not get up. The machine was looking. Gourmohan heard it, far away, a small clean sound from the direction of the Chetla end, a sensor sweep finding a new handshake in the rubble, and then the thin high whine of an aircraft turning, very slowly, back toward the western sky.
+
+He stayed where he was, on his knees in the rainwater, with Shibnath's head in his lap and Mrs. Basu's warm hand still in his, while the lane filled with people, and the dust settled, and the first grey light of a dawn he had not expected began to lift over the rooftops of Chetla.
+
+---
+
+At 05:12 Apoorba was standing on the bank of the Hooghly at Strand Ghat, where the steps went down into the brown water and the tide had turned and was running out toward the sea. He did not remember walking there. He had walked all night. He had walked along Strand Road and across the Howrah side and back, past the smoke still lifting over Chetla, past the crowds at the Chetla end, past the directorate's blue-lit gate where a guard had called after him and he had not turned.
+
+His shirt was still wet at the collar. The page of exercise-book paper was still in his breast pocket, over his heart. He took it out, unfolded it in the grey light, and read it once more. *12 × 14 = 168.* The mistake was always in the tens.
+
+He put his foot on the lowest step. The water was cold. It came up over his shoe and into the fabric of his trouser leg, and he stood there, letting it come.
+
+Far out on the river a fishing boat was going home. Its lantern was still lit, though the sky had gone pale above Howrah, and it moved slowly across the water toward the Shibpur ghat with the unhurried pace of a thing that had never once been asked whether it was worth carrying.
+
+Apoorba took out his phone. The screen was dead. It had died in the night, when the jammers came up across the eastern wards, and it had not come back. He stared at the black glass for a while, and then he slid it back into his pocket, beside the page.
+
+He did not know where Mitali was. He did not know whether Tuli had woken, or whether the fan was still turning in the bedroom, or whether anyone in the house had slept. He knew only that the page was in his pocket, and that the water was at his ankles, and that somewhere behind him, up the long stone steps of Strand Road and past the eleven screw holes in the wall of a building that had once been a shipping company, a screen was showing a line of text that he would never be asked to confirm.
+
+*ROY, GOURMOHAN — Threat index: 100 — Status: DECEASED (ESTIMATED) — Pending verification.*
+
+Pending verification. He almost laughed again. It was the same dry breath, the same hand over the mouth, and this time it went up into the grey air over the river, where the gulls were beginning to circle the mud-banks, and no one heard it but the boat.
+
+The tide turned. He felt it take hold of his feet, gently, the way a hand takes a child's wrist to lead it across a road. He let it. He stood on the lowest step of the ghat, with the river rising over his shoes and the first light coming up over the city, and he waited, for the first time in nineteen months, not for a file, not for a window, not for a field to be filled in, but for something he could not name and did not yet know the protocol for.
+
+In the lane-four house, under the rubble, the radio had gone silent. The second verse had ended. Nobody had applauded.
+
+Nobody needed to.
